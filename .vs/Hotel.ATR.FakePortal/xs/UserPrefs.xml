@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{622E6A77-996A-498F-B660-69BCF0042849}|http">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Hotel.ATR.FakePortal PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hotel.ATR.FakePortal/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Hotel.ATR.FakePortal/Program.cs" Line="26" Column="1" />
+      <File FileName="Hotel.ATR.FakePortal/Controllers/HomeController.cs" Line="21" Column="29" />
+      <File FileName="Hotel.ATR.FakePortal/Views/Shared/_Layout.cshtml" Line="291" Column="37" />
+      <File FileName="Hotel.ATR.FakePortal/Views/Home/Index.cshtml" Line="5" Column="25" />
+      <File FileName="../../Downloads/index.html" Line="177" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hotel.ATR.FakePortal" expanded="True">
+            <Node name="Hotel.ATR.FakePortal" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
