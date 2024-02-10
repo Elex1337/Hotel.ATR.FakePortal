@@ -1,0 +1,7 @@
+/Users/nurbolatzursinbek/Publish/Hotel.ATR.FakePortal
+/Users/nurbolatzursinbek/Publish/appsettings.Development.json
+/Users/nurbolatzursinbek/Publish/appsettings.json
+/Users/nurbolatzursinbek/Publish/Hotel.ATR.FakePortal.dll
+/Users/nurbolatzursinbek/Publish/Hotel.ATR.FakePortal.deps.json
+/Users/nurbolatzursinbek/Publish/Hotel.ATR.FakePortal.runtimeconfig.json
+/Users/nurbolatzursinbek/Publish/Hotel.ATR.FakePortal.pdb
