@@ -1,0 +1,7 @@
+/Users/nurbolatzursinbek/ASP.NET.COREPRoject/Hotel.ATR.FakePortal
+/Users/nurbolatzursinbek/ASP.NET.COREPRoject/appsettings.Development.json
+/Users/nurbolatzursinbek/ASP.NET.COREPRoject/appsettings.json
+/Users/nurbolatzursinbek/ASP.NET.COREPRoject/Hotel.ATR.FakePortal.dll
+/Users/nurbolatzursinbek/ASP.NET.COREPRoject/Hotel.ATR.FakePortal.deps.json
+/Users/nurbolatzursinbek/ASP.NET.COREPRoject/Hotel.ATR.FakePortal.runtimeconfig.json
+/Users/nurbolatzursinbek/ASP.NET.COREPRoject/Hotel.ATR.FakePortal.pdb

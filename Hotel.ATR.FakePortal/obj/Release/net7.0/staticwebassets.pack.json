@@ -1,0 +1,593 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/obj/Release/net7.0/scopedcss/projectbundle/Hotel.ATR.FakePortal.bundle.scp.css",
+      "PackagePath": "staticwebassets/Hotel.ATR.FakePortal.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/animate.css",
+      "PackagePath": "staticwebassets/css/animate.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/magnific-popup.css",
+      "PackagePath": "staticwebassets/css/magnific-popup.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/material-design-iconic-font.css",
+      "PackagePath": "staticwebassets/css/material-design-iconic-font.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets/css/material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/meanmenu.min.css",
+      "PackagePath": "staticwebassets/css/meanmenu.min.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/owl.carousel.css",
+      "PackagePath": "staticwebassets/css/owl.carousel.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/owl.video.play.png",
+      "PackagePath": "staticwebassets/css/owl.video.play.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/responsive.css",
+      "PackagePath": "staticwebassets/css/responsive.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/shortcode/default.css",
+      "PackagePath": "staticwebassets/css/shortcode/default.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/shortcode/footer.css",
+      "PackagePath": "staticwebassets/css/shortcode/footer.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/shortcode/header.css",
+      "PackagePath": "staticwebassets/css/shortcode/header.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/shortcode/shortcodes.css",
+      "PackagePath": "staticwebassets/css/shortcode/shortcodes.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/shortcode/slider.css",
+      "PackagePath": "staticwebassets/css/shortcode/slider.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/slick.css",
+      "PackagePath": "staticwebassets/css/slick.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/fonts/Material-Design-Iconic-Fontd1f1.ttf",
+      "PackagePath": "staticwebassets/fonts/Material-Design-Iconic-Fontd1f1.ttf"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/fonts/Material-Design-Iconic-Fontd1f1.woff",
+      "PackagePath": "staticwebassets/fonts/Material-Design-Iconic-Fontd1f1.woff"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/fonts/Material-Design-Iconic-Fontd1f1.woff2",
+      "PackagePath": "staticwebassets/fonts/Material-Design-Iconic-Fontd1f1.woff2"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/fonts/fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/fonts/fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/fonts/fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/fonts/fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/fonts/fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/fonts/fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets/fonts/fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/fonts/glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/fonts/glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/fonts/glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/fonts/glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/fonts/glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/fonts/glyphicons-halflings-regulard41d.eot",
+      "PackagePath": "staticwebassets/fonts/glyphicons-halflings-regulard41d.eot"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/banner/1.jpg",
+      "PackagePath": "staticwebassets/img/banner/1.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/banner/2.jpg",
+      "PackagePath": "staticwebassets/img/banner/2.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/banner/3.jpg",
+      "PackagePath": "staticwebassets/img/banner/3.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/banner/4.jpg",
+      "PackagePath": "staticwebassets/img/banner/4.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/bg/1.jpg",
+      "PackagePath": "staticwebassets/img/bg/1.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/bg/2.jpg",
+      "PackagePath": "staticwebassets/img/bg/2.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/bg/3.jpg",
+      "PackagePath": "staticwebassets/img/bg/3.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/bg/5.jpg",
+      "PackagePath": "staticwebassets/img/bg/5.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/blog/1.jpg",
+      "PackagePath": "staticwebassets/img/blog/1.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/blog/2.jpg",
+      "PackagePath": "staticwebassets/img/blog/2.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/blog/3.jpg",
+      "PackagePath": "staticwebassets/img/blog/3.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/1-hover.png",
+      "PackagePath": "staticwebassets/img/client/1-hover.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/1.png",
+      "PackagePath": "staticwebassets/img/client/1.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/2-hover.png",
+      "PackagePath": "staticwebassets/img/client/2-hover.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/2.png",
+      "PackagePath": "staticwebassets/img/client/2.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/3-hover.png",
+      "PackagePath": "staticwebassets/img/client/3-hover.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/3.png",
+      "PackagePath": "staticwebassets/img/client/3.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/4-hover.png",
+      "PackagePath": "staticwebassets/img/client/4-hover.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/4.png",
+      "PackagePath": "staticwebassets/img/client/4.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/5-hover.png",
+      "PackagePath": "staticwebassets/img/client/5-hover.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/5.png",
+      "PackagePath": "staticwebassets/img/client/5.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/event/1.jpg",
+      "PackagePath": "staticwebassets/img/event/1.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/event/2.jpg",
+      "PackagePath": "staticwebassets/img/event/2.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/event/3.jpg",
+      "PackagePath": "staticwebassets/img/event/3.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/event/4.jpg",
+      "PackagePath": "staticwebassets/img/event/4.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/event/5.jpg",
+      "PackagePath": "staticwebassets/img/event/5.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/event/6.jpg",
+      "PackagePath": "staticwebassets/img/event/6.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/favicon.ico",
+      "PackagePath": "staticwebassets/img/favicon.ico"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/footer/1.jpg",
+      "PackagePath": "staticwebassets/img/footer/1.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/footer/2.jpg",
+      "PackagePath": "staticwebassets/img/footer/2.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/footer/3.jpg",
+      "PackagePath": "staticwebassets/img/footer/3.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/footer/4.jpg",
+      "PackagePath": "staticwebassets/img/footer/4.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/footer/5.jpg",
+      "PackagePath": "staticwebassets/img/footer/5.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/footer/6.jpg",
+      "PackagePath": "staticwebassets/img/footer/6.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/gallery/1.jpg",
+      "PackagePath": "staticwebassets/img/gallery/1.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/gallery/2.jpg",
+      "PackagePath": "staticwebassets/img/gallery/2.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/gallery/3.jpg",
+      "PackagePath": "staticwebassets/img/gallery/3.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/gallery/4.jpg",
+      "PackagePath": "staticwebassets/img/gallery/4.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/gallery/5.jpg",
+      "PackagePath": "staticwebassets/img/gallery/5.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/gallery/6.jpg",
+      "PackagePath": "staticwebassets/img/gallery/6.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/icon/conference-hover.png",
+      "PackagePath": "staticwebassets/img/icon/conference-hover.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/icon/conference.png",
+      "PackagePath": "staticwebassets/img/icon/conference.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/icon/link-hover.png",
+      "PackagePath": "staticwebassets/img/icon/link-hover.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/icon/link.png",
+      "PackagePath": "staticwebassets/img/icon/link.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/icon/restaurent-hover.png",
+      "PackagePath": "staticwebassets/img/icon/restaurent-hover.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/icon/restaurent.png",
+      "PackagePath": "staticwebassets/img/icon/restaurent.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/icon/search-hover.png",
+      "PackagePath": "staticwebassets/img/icon/search-hover.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/icon/search.png",
+      "PackagePath": "staticwebassets/img/icon/search.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/icon/spa-hover.png",
+      "PackagePath": "staticwebassets/img/icon/spa-hover.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/icon/spa.png",
+      "PackagePath": "staticwebassets/img/icon/spa.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/icon/swim-hover.png",
+      "PackagePath": "staticwebassets/img/icon/swim-hover.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/icon/swim.png",
+      "PackagePath": "staticwebassets/img/icon/swim.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/location/1.jpg",
+      "PackagePath": "staticwebassets/img/location/1.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/location/2.jpg",
+      "PackagePath": "staticwebassets/img/location/2.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/location/3.jpg",
+      "PackagePath": "staticwebassets/img/location/3.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/location/4.jpg",
+      "PackagePath": "staticwebassets/img/location/4.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/location/5.jpg",
+      "PackagePath": "staticwebassets/img/location/5.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/location/6.jpg",
+      "PackagePath": "staticwebassets/img/location/6.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/logo/footer-logo.png",
+      "PackagePath": "staticwebassets/img/logo/footer-logo.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/logo/logo.png",
+      "PackagePath": "staticwebassets/img/logo/logo.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/1.jpg",
+      "PackagePath": "staticwebassets/img/room/1.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/10.jpg",
+      "PackagePath": "staticwebassets/img/room/10.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/11.jpg",
+      "PackagePath": "staticwebassets/img/room/11.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/12.jpg",
+      "PackagePath": "staticwebassets/img/room/12.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/13.jpg",
+      "PackagePath": "staticwebassets/img/room/13.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/14.jpg",
+      "PackagePath": "staticwebassets/img/room/14.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/15.jpg",
+      "PackagePath": "staticwebassets/img/room/15.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/2.jpg",
+      "PackagePath": "staticwebassets/img/room/2.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/3.jpg",
+      "PackagePath": "staticwebassets/img/room/3.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/4.jpg",
+      "PackagePath": "staticwebassets/img/room/4.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/5.jpg",
+      "PackagePath": "staticwebassets/img/room/5.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/6.jpg",
+      "PackagePath": "staticwebassets/img/room/6.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/7.jpg",
+      "PackagePath": "staticwebassets/img/room/7.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/8.jpg",
+      "PackagePath": "staticwebassets/img/room/8.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/9.jpg",
+      "PackagePath": "staticwebassets/img/room/9.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/l-1.jpg",
+      "PackagePath": "staticwebassets/img/room/l-1.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/l-2.jpg",
+      "PackagePath": "staticwebassets/img/room/l-2.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/l-3.jpg",
+      "PackagePath": "staticwebassets/img/room/l-3.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/l-4.jpg",
+      "PackagePath": "staticwebassets/img/room/l-4.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/l-5.jpg",
+      "PackagePath": "staticwebassets/img/room/l-5.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/s-1.jpg",
+      "PackagePath": "staticwebassets/img/room/s-1.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/s-2.jpg",
+      "PackagePath": "staticwebassets/img/room/s-2.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/s-3.jpg",
+      "PackagePath": "staticwebassets/img/room/s-3.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/s-4.jpg",
+      "PackagePath": "staticwebassets/img/room/s-4.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/s-5.jpg",
+      "PackagePath": "staticwebassets/img/room/s-5.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/sidebar/1.jpg",
+      "PackagePath": "staticwebassets/img/sidebar/1.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/sidebar/2.jpg",
+      "PackagePath": "staticwebassets/img/sidebar/2.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/sidebar/3.jpg",
+      "PackagePath": "staticwebassets/img/sidebar/3.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/slider/1.jpg",
+      "PackagePath": "staticwebassets/img/slider/1.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/slider/2.jpg",
+      "PackagePath": "staticwebassets/img/slider/2.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/team/1.jpg",
+      "PackagePath": "staticwebassets/img/team/1.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/team/2.jpg",
+      "PackagePath": "staticwebassets/img/team/2.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/team/3.jpg",
+      "PackagePath": "staticwebassets/img/team/3.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/team/4.jpg",
+      "PackagePath": "staticwebassets/img/team/4.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/team/5.jpg",
+      "PackagePath": "staticwebassets/img/team/5.jpg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/ajax-mail.js",
+      "PackagePath": "staticwebassets/js/ajax-mail.js"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets/js/imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets/js/isotope.pkgd.min.js"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets/js/jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/jquery.counterup.min.js",
+      "PackagePath": "staticwebassets/js/jquery.counterup.min.js"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets/js/jquery.magnific-popup.js"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/jquery.meanmenu.js",
+      "PackagePath": "staticwebassets/js/jquery.meanmenu.js"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/js/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/plugins.js",
+      "PackagePath": "staticwebassets/js/plugins.js"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/vendor/jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets/js/vendor/jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/vendor/modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets/js/vendor/modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/waypoints.min.js",
+      "PackagePath": "staticwebassets/js/waypoints.min.js"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/style.css",
+      "PackagePath": "staticwebassets/style.css"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.Hotel.ATR.FakePortal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.build.Hotel.ATR.FakePortal.props",
+      "PackagePath": "build\\Hotel.ATR.FakePortal.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.buildMultiTargeting.Hotel.ATR.FakePortal.props",
+      "PackagePath": "buildMultiTargeting\\Hotel.ATR.FakePortal.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.buildTransitive.Hotel.ATR.FakePortal.props",
+      "PackagePath": "buildTransitive\\Hotel.ATR.FakePortal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
