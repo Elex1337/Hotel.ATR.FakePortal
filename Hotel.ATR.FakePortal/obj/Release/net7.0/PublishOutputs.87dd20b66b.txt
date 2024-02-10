@@ -1,0 +1,7 @@
+/Users/nurbolatzursinbek/Library/Application Support/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/b8a9f5cabd0c0c8501736ca82080d995/zhursinbek.satbayevproject.kz/Hotel.ATR.FakePortal
+/Users/nurbolatzursinbek/Library/Application Support/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/b8a9f5cabd0c0c8501736ca82080d995/zhursinbek.satbayevproject.kz/appsettings.Development.json
+/Users/nurbolatzursinbek/Library/Application Support/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/b8a9f5cabd0c0c8501736ca82080d995/zhursinbek.satbayevproject.kz/appsettings.json
+/Users/nurbolatzursinbek/Library/Application Support/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/b8a9f5cabd0c0c8501736ca82080d995/zhursinbek.satbayevproject.kz/Hotel.ATR.FakePortal.dll
+/Users/nurbolatzursinbek/Library/Application Support/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/b8a9f5cabd0c0c8501736ca82080d995/zhursinbek.satbayevproject.kz/Hotel.ATR.FakePortal.deps.json
+/Users/nurbolatzursinbek/Library/Application Support/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/b8a9f5cabd0c0c8501736ca82080d995/zhursinbek.satbayevproject.kz/Hotel.ATR.FakePortal.runtimeconfig.json
+/Users/nurbolatzursinbek/Library/Application Support/Code/User/globalStorage/humy2833.ftp-simple/remote-workspace-temp/b8a9f5cabd0c0c8501736ca82080d995/zhursinbek.satbayevproject.kz/Hotel.ATR.FakePortal.pdb
