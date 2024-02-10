@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/Views/Contact/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9Db250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

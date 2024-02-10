@@ -20,7 +20,11 @@ namespace Hotel.ATR.FakePortal.Controllers
         // GET: /<controller>/
         public IActionResult Index(int page, int counter)
         {
-            return View();
+            var user = new User() { email = "Ok@gmail.com", name = "hello" };
+            ViewBag.User = user;
+            ViewData["user"] = user;
+            TempData["user"] = user;
+            return View(user);
         }
        
        public IActionResult RoomDetails()
