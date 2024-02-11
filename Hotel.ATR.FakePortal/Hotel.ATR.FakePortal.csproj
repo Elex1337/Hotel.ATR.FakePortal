@@ -4,15 +4,24 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <BuildWithMSBuildOnMono>false</BuildWithMSBuildOnMono>
+    <Configurations>Release;Debug</Configurations>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
   <ItemGroup>
     <None Remove="Views\Room\" />
-    <None Remove="Views\Contact\" />
+    <None Remove="Views\Event\" />
+    <None Remove="Views\Team\" />
+    <None Remove="Views\Location\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Room\" />
-    <Folder Include="Views\Contact\" />
+    <Folder Include="Views\Event\" />
+    <Folder Include="Views\Team\" />
+    <Folder Include="Views\Location\" />
   </ItemGroup>
 </Project>

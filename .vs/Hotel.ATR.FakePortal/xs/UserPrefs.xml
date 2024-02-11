@@ -1,54 +1,55 @@
 ﻿<Properties StartupConfiguration="{622E6A77-996A-498F-B660-69BCF0042849}|http">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Hotel.ATR.FakePortal/Views/Contact/Contact.cshtml">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hotel.ATR.FakePortal/Views/Shared/_MainMenu.cshtml">
     <Files>
-      <File FileName="Hotel.ATR.FakePortal/Views/Room/Index.cshtml" Line="1" Column="1" />
-      <File FileName="Hotel.ATR.FakePortal/appsettings.json" Line="4" Column="17" />
-      <File FileName="Hotel.ATR.FakePortal/appsettings.Development.json" Line="1" Column="1" />
-      <File FileName="Hotel.ATR.FakePortal/Controllers/HomeController.cs" Line="23" Column="6" />
-      <File FileName="Hotel.ATR.FakePortal/Views/Home/Index.cshtml" Line="2" Column="17" />
+      <File FileName="Hotel.ATR.FakePortal/Views/Room/Index.cshtml" Line="138" Column="42" />
+      <File FileName="Hotel.ATR.FakePortal/Controllers/HomeController.cs" Line="22" Column="23" />
+      <File FileName="Hotel.ATR.FakePortal/Controllers/RoomController.cs" Line="24" Column="24" />
+      <File FileName="Hotel.ATR.FakePortal/Views/Shared/_HomeLayout.cshtml" Line="71" Column="42" />
+      <File FileName="Hotel.ATR.FakePortal/Views/Home/Index.cshtml" Line="5" Column="1" />
+      <File FileName="Hotel.ATR.FakePortal/Properties/launchSettings.json" Line="10" Column="16" />
+      <File FileName="Hotel.ATR.FakePortal/Views/Shared/_Layout.cshtml" Line="84" Column="14" />
+      <File FileName="Hotel.ATR.FakePortal/Views/Room/RoomDetails.cshtml" Line="116" Column="35" />
       <File FileName="Hotel.ATR.FakePortal/Views/Home/Privacy.cshtml" Line="1" Column="1" />
-      <File FileName="Hotel.ATR.FakePortal/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
-      <File FileName="Hotel.ATR.FakePortal/Views/Shared/_HomeLayout.cshtml" Line="1" Column="1" />
-      <File FileName="Hotel.ATR.FakePortal/Views/Room/RoomDetails.cshtml" Line="358" Column="67" />
-      <File FileName="Hotel.ATR.FakePortal/Controllers/RoomController.cs" Line="23" Column="28" />
-      <File FileName="Hotel.ATR.FakePortal/Models/User.cs" Line="9" Column="41" />
-      <File FileName="Hotel.ATR.FakePortal/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Hotel.ATR.FakePortal/Models/User.cs" Line="1" Column="1" />
+      <File FileName="Hotel.ATR.FakePortal/Models/ErrorViewModel.cs" Line="1" Column="1" />
       <File FileName="Hotel.ATR.FakePortal/Views/_ViewImports.cshtml" Line="1" Column="1" />
-      <File FileName="Hotel.ATR.FakePortal/Properties/launchSettings.json" Line="1" Column="1" />
-      <File FileName="Hotel.ATR.FakePortal/Properties/PublishProfiles/FolderProfile.pubxml" Line="1" Column="1" />
-      <File FileName="Hotel.ATR.FakePortal/Views/Contact/Contact.cshtml" Line="127" Column="17" />
+      <File FileName="Hotel.ATR.FakePortal/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Hotel.ATR.FakePortal/Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="Hotel.ATR.FakePortal/wwwroot/style.css" Line="1" Column="1" />
+      <File FileName="Hotel.ATR.FakePortal/appsettings.json" Line="1" Column="1" />
+      <File FileName="Hotel.ATR.FakePortal/Program.cs" Line="24" Column="27" />
+      <File FileName="Hotel.ATR.FakePortal/Controllers/EventController.cs" Line="13" Column="29" />
+      <File FileName="Hotel.ATR.FakePortal/Views/Event/Index.cshtml" Line="22" Column="1" />
+      <File FileName="Hotel.ATR.FakePortal/Views/Shared/_MainMenu.cshtml" Line="13" Column="16" />
+      <File FileName="Hotel.ATR.FakePortal/Controllers/TeamController.cs" Line="1" Column="1" />
+      <File FileName="Hotel.ATR.FakePortal/Views/TeamController/Index.cshtml" Line="322" Column="29" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Hotel.ATR.FakePortal" expanded="True">
-            <Node name="Hotel.ATR.FakePortal" expanded="True" selected="True">
+            <Node name="Hotel.ATR.FakePortal">
               <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
-              <Node name="Properties" expanded="True">
-                <Node name="PublishProfiles" expanded="True" />
-              </Node>
+              <Node name="Properties" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Contact" expanded="True" />
+                <Node name="Event" expanded="True" />
                 <Node name="Home" expanded="True" />
-                <Node name="Room" expanded="True" />
                 <Node name="Shared" expanded="True" />
+                <Node name="Team" expanded="True" />
+                <Node name="TeamController" selected="True" />
               </Node>
               <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Hotel.ATR.FakePortal PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Hotel.ATR.FakePortal PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

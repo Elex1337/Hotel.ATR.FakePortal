@@ -1,0 +1,7 @@
+/Users/nurbolatzursinbek/anaconda3/Publish/PUBLISH  2.0/Hotel.ATR.FakePortal
+/Users/nurbolatzursinbek/anaconda3/Publish/PUBLISH  2.0/appsettings.Development.json
+/Users/nurbolatzursinbek/anaconda3/Publish/PUBLISH  2.0/appsettings.json
+/Users/nurbolatzursinbek/anaconda3/Publish/PUBLISH  2.0/Hotel.ATR.FakePortal.dll
+/Users/nurbolatzursinbek/anaconda3/Publish/PUBLISH  2.0/Hotel.ATR.FakePortal.deps.json
+/Users/nurbolatzursinbek/anaconda3/Publish/PUBLISH  2.0/Hotel.ATR.FakePortal.runtimeconfig.json
+/Users/nurbolatzursinbek/anaconda3/Publish/PUBLISH  2.0/Hotel.ATR.FakePortal.pdb
