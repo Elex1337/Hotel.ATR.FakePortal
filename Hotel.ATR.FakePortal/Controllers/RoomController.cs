@@ -10,17 +10,26 @@ using Microsoft.AspNetCore.Mvc;
 namespace Hotel.ATR.FakePortal.Controllers
 {
     public class RoomController : Controller
+
     {
+        private readonly ILogger<RoomController> _logger;
+
         private IWebHostEnvironment webHost;
 
-        public RoomController(IWebHostEnvironment webHost)
+        public RoomController(IWebHostEnvironment webHost, ILogger<RoomController> _logger) 
         {
             this.webHost = webHost;
+            this._logger = _logger;
             }
         // GET: /<controller>/
-        public IActionResult Index(int page, int counter)
+        public IActionResult Index(int id)
         {
-           
+            _logger.LogInformation("Logging LogInforamtion");
+            _logger.LogError("Loggiong LogEror");
+            _logger.LogWarning("Logging LogWarning");
+            _logger.LogDebug("Logging LogDebug");
+            ViewBag.Id = id;
+            TempData["id"] = id;
             return View();
         }
        

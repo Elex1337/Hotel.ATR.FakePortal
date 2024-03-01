@@ -1,0 +1,864 @@
+2024-02-28 13:14:42.188 +06:00 [INF] User profile is available. Using '/Users/nurbolatzursinbek/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-02-28 13:14:42.251 +06:00 [INF] Now listening on: http://localhost:5203
+2024-02-28 13:14:42.252 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-28 13:14:42.252 +06:00 [INF] Hosting environment: Development
+2024-02-28 13:14:42.252 +06:00 [INF] Content root path: /Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal
+2024-02-28 13:14:43.510 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/ - -
+2024-02-28 13:14:43.525 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:14:43.541 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:14:43.543 +06:00 [ERR] У пользователя nurbolatzursinbek@gmail.com  врщникла ошибка Ошибка пользователя
+2024-02-28 13:14:43.543 +06:00 [INF] обращение к сервису
+2024-02-28 13:14:44.544 +06:00 [INF] Сервис отработан за 1001
+2024-02-28 13:14:44.551 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:14:44.551 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:14:44.563 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:14:44.637 +06:00 [INF] Executed ViewResult - view Index executed in 80.7717ms.
+2024-02-28 13:14:44.638 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal) in 1096.3222ms
+2024-02-28 13:14:44.638 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:14:44.639 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/ - - - 200 - text/html;+charset=utf-8 1130.2290ms
+2024-02-28 13:14:44.798 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/css/font-awesome.min.css - -
+2024-02-28 13:14:44.822 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/style.css - -
+2024-02-28 13:14:44.798 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/css/bootstrap.min.css - -
+2024-02-28 13:14:44.852 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/css/responsive.css - -
+2024-02-28 13:14:44.852 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/logo/logo.png - -
+2024-02-28 13:14:44.852 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/js/vendor/modernizr-2.8.3.min.js - -
+2024-02-28 13:14:44.933 +06:00 [INF] Sending file. Request path: '/img/logo/logo.png'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/logo/logo.png'
+2024-02-28 13:14:44.933 +06:00 [INF] Sending file. Request path: '/css/font-awesome.min.css'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/font-awesome.min.css'
+2024-02-28 13:14:44.933 +06:00 [INF] Sending file. Request path: '/style.css'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/style.css'
+2024-02-28 13:14:44.933 +06:00 [INF] Sending file. Request path: '/js/vendor/modernizr-2.8.3.min.js'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/vendor/modernizr-2.8.3.min.js'
+2024-02-28 13:14:44.933 +06:00 [INF] Sending file. Request path: '/css/responsive.css'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/responsive.css'
+2024-02-28 13:14:44.934 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/style.css - - - 200 30445 text/css 136.4109ms
+2024-02-28 13:14:44.934 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/css/font-awesome.min.css - - - 200 31024 text/css 136.3930ms
+2024-02-28 13:14:44.934 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/js/vendor/modernizr-2.8.3.min.js - - - 200 15514 text/javascript 82.2712ms
+2024-02-28 13:14:44.934 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/css/responsive.css - - - 200 11221 text/css 82.2789ms
+2024-02-28 13:14:44.934 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/logo/logo.png - - - 200 2876 image/png 81.8462ms
+2024-02-28 13:14:44.935 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/css/animate.css - -
+2024-02-28 13:14:44.935 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/css/shortcode/default.css - -
+2024-02-28 13:14:44.935 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/css/shortcode/header.css - -
+2024-02-28 13:14:44.935 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/css/shortcode/footer.css - -
+2024-02-28 13:14:44.935 +06:00 [INF] Sending file. Request path: '/css/bootstrap.min.css'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/bootstrap.min.css'
+2024-02-28 13:14:44.936 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/css/bootstrap.min.css - - - 200 121204 text/css 137.7811ms
+2024-02-28 13:14:44.935 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/css/shortcode/slider.css - -
+2024-02-28 13:14:44.983 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/css/owl.carousel.css - -
+2024-02-28 13:14:44.984 +06:00 [INF] Sending file. Request path: '/css/shortcode/footer.css'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/shortcode/footer.css'
+2024-02-28 13:14:44.985 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/css/shortcode/footer.css - - - 200 4238 text/css 49.8379ms
+2024-02-28 13:14:44.994 +06:00 [INF] Sending file. Request path: '/css/shortcode/slider.css'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/shortcode/slider.css'
+2024-02-28 13:14:44.994 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/css/shortcode/slider.css - - - 200 3701 text/css 59.6193ms
+2024-02-28 13:14:44.995 +06:00 [INF] Sending file. Request path: '/css/owl.carousel.css'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/owl.carousel.css'
+2024-02-28 13:14:44.995 +06:00 [INF] Sending file. Request path: '/css/animate.css'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/animate.css'
+2024-02-28 13:14:44.995 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/css/magnific-popup.css - -
+2024-02-28 13:14:44.995 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/css/animate.css - - - 200 70824 text/css 60.2886ms
+2024-02-28 13:14:44.995 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/css/owl.carousel.css - - - 200 4614 text/css 33.0703ms
+2024-02-28 13:14:44.995 +06:00 [INF] Sending file. Request path: '/css/shortcode/default.css'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/shortcode/default.css'
+2024-02-28 13:14:44.995 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/css/material-design-iconic-font.css - -
+2024-02-28 13:14:44.995 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/css/slick.css - -
+2024-02-28 13:14:44.996 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/css/shortcode/default.css - - - 200 17489 text/css 61.0064ms
+2024-02-28 13:14:44.997 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/css/meanmenu.min.css - -
+2024-02-28 13:14:45.050 +06:00 [INF] Sending file. Request path: '/css/material-design-iconic-font.css'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/material-design-iconic-font.css'
+2024-02-28 13:14:45.050 +06:00 [INF] Sending file. Request path: '/css/magnific-popup.css'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/magnific-popup.css'
+2024-02-28 13:14:45.051 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/css/material-design-iconic-font.min.css - -
+2024-02-28 13:14:45.051 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/css/material-design-iconic-font.css - - - 200 85316 text/css 55.8736ms
+2024-02-28 13:14:45.051 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/css/magnific-popup.css - - - 200 5204 text/css 56.2491ms
+2024-02-28 13:14:45.051 +06:00 [INF] Sending file. Request path: '/css/slick.css'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/slick.css'
+2024-02-28 13:14:45.052 +06:00 [INF] Sending file. Request path: '/css/shortcode/header.css'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/shortcode/header.css'
+2024-02-28 13:14:45.053 +06:00 [INF] Sending file. Request path: '/css/meanmenu.min.css'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/meanmenu.min.css'
+2024-02-28 13:14:45.053 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/css/slick.css - - - 200 1307 text/css 56.6958ms
+2024-02-28 13:14:45.053 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/footer/1.jpg - -
+2024-02-28 13:14:45.053 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/css/meanmenu.min.css - - - 200 2968 text/css 55.9954ms
+2024-02-28 13:14:45.053 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/css/shortcode/header.css - - - 200 5127 text/css 118.3868ms
+2024-02-28 13:14:45.080 +06:00 [INF] Sending file. Request path: '/img/footer/1.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/footer/1.jpg'
+2024-02-28 13:14:45.079 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/logo/footer-logo.png - -
+2024-02-28 13:14:45.080 +06:00 [INF] Sending file. Request path: '/css/material-design-iconic-font.min.css'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/css/material-design-iconic-font.min.css'
+2024-02-28 13:14:45.080 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/footer/1.jpg - - - 200 7131 image/jpeg 27.2420ms
+2024-02-28 13:14:45.080 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/css/material-design-iconic-font.min.css - - - 200 70827 text/css 29.9211ms
+2024-02-28 13:14:45.081 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/footer/2.jpg - -
+2024-02-28 13:14:45.082 +06:00 [INF] Sending file. Request path: '/img/logo/footer-logo.png'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/logo/footer-logo.png'
+2024-02-28 13:14:45.083 +06:00 [INF] Sending file. Request path: '/img/footer/2.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/footer/2.jpg'
+2024-02-28 13:14:45.083 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/logo/footer-logo.png - - - 200 2343 image/png 29.9698ms
+2024-02-28 13:14:45.084 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/footer/2.jpg - - - 200 9331 image/jpeg 2.4641ms
+2024-02-28 13:14:45.085 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/js/vendor/jquery-1.12.4.min.js - -
+2024-02-28 13:14:45.086 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/js/bootstrap.min.js - -
+2024-02-28 13:14:45.087 +06:00 [INF] Sending file. Request path: '/js/vendor/jquery-1.12.4.min.js'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/vendor/jquery-1.12.4.min.js'
+2024-02-28 13:14:45.088 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/js/vendor/jquery-1.12.4.min.js - - - 200 97163 text/javascript 2.9803ms
+2024-02-28 13:14:45.089 +06:00 [INF] Sending file. Request path: '/js/bootstrap.min.js'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/bootstrap.min.js'
+2024-02-28 13:14:45.089 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/js/bootstrap.min.js - - - 200 37045 text/javascript 3.5271ms
+2024-02-28 13:14:45.092 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/js/owl.carousel.min.js - -
+2024-02-28 13:14:45.094 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/js/ajax-mail.js - -
+2024-02-28 13:14:45.096 +06:00 [INF] Sending file. Request path: '/js/owl.carousel.min.js'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/owl.carousel.min.js'
+2024-02-28 13:14:45.099 +06:00 [INF] Sending file. Request path: '/js/ajax-mail.js'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/ajax-mail.js'
+2024-02-28 13:14:45.099 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/js/owl.carousel.min.js - - - 200 77685 text/javascript 7.0381ms
+2024-02-28 13:14:45.099 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/js/ajax-mail.js - - - 200 1201 text/javascript 5.7692ms
+2024-02-28 13:14:45.099 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/js/jquery.meanmenu.js - -
+2024-02-28 13:14:45.099 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/js/jquery.ajaxchimp.min.js - -
+2024-02-28 13:14:45.101 +06:00 [INF] Sending file. Request path: '/js/jquery.ajaxchimp.min.js'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/jquery.ajaxchimp.min.js'
+2024-02-28 13:14:45.102 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/js/jquery.ajaxchimp.min.js - - - 200 2449 text/javascript 2.7188ms
+2024-02-28 13:14:45.102 +06:00 [INF] Sending file. Request path: '/js/jquery.meanmenu.js'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/jquery.meanmenu.js'
+2024-02-28 13:14:45.102 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/js/jquery.meanmenu.js - - - 200 11467 text/javascript 3.1652ms
+2024-02-28 13:14:45.104 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/js/jquery.counterup.min.js - -
+2024-02-28 13:14:45.105 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/js/waypoints.min.js - -
+2024-02-28 13:14:45.106 +06:00 [INF] Sending file. Request path: '/js/jquery.counterup.min.js'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/jquery.counterup.min.js'
+2024-02-28 13:14:45.106 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/js/jquery.counterup.min.js - - - 200 1067 text/javascript 2.6911ms
+2024-02-28 13:14:45.108 +06:00 [INF] Sending file. Request path: '/js/waypoints.min.js'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/waypoints.min.js'
+2024-02-28 13:14:45.108 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/js/waypoints.min.js - - - 200 8044 text/javascript 3.1667ms
+2024-02-28 13:14:45.108 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/js/imagesloaded.pkgd.min.js - -
+2024-02-28 13:14:45.109 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/js/isotope.pkgd.min.js - -
+2024-02-28 13:14:45.111 +06:00 [INF] Sending file. Request path: '/js/imagesloaded.pkgd.min.js'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/imagesloaded.pkgd.min.js'
+2024-02-28 13:14:45.111 +06:00 [INF] Sending file. Request path: '/js/isotope.pkgd.min.js'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/isotope.pkgd.min.js'
+2024-02-28 13:14:45.112 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/js/imagesloaded.pkgd.min.js - - - 200 5441 text/javascript 3.4125ms
+2024-02-28 13:14:45.137 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/js/isotope.pkgd.min.js - - - 200 34695 text/javascript 28.2757ms
+2024-02-28 13:14:45.137 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/js/jquery.magnific-popup.js - -
+2024-02-28 13:14:45.137 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/js/plugins.js - -
+2024-02-28 13:14:45.139 +06:00 [INF] Sending file. Request path: '/js/jquery.magnific-popup.js'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/jquery.magnific-popup.js'
+2024-02-28 13:14:45.140 +06:00 [INF] Sending file. Request path: '/js/plugins.js'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/plugins.js'
+2024-02-28 13:14:45.140 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/js/jquery.magnific-popup.js - - - 200 41742 text/javascript 2.7414ms
+2024-02-28 13:14:45.140 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/js/plugins.js - - - 200 54000 text/javascript 2.9175ms
+2024-02-28 13:14:45.141 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/js/main.js - -
+2024-02-28 13:14:45.167 +06:00 [INF] Sending file. Request path: '/js/main.js'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/js/main.js'
+2024-02-28 13:14:45.168 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/js/main.js - - - 200 6880 text/javascript 26.5987ms
+2024-02-28 13:14:45.168 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/footer/3.jpg - -
+2024-02-28 13:14:45.169 +06:00 [INF] Sending file. Request path: '/img/footer/3.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/footer/3.jpg'
+2024-02-28 13:14:45.169 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/footer/3.jpg - - - 200 10820 image/jpeg 1.6554ms
+2024-02-28 13:14:45.170 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/footer/4.jpg - -
+2024-02-28 13:14:45.172 +06:00 [INF] Sending file. Request path: '/img/footer/4.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/footer/4.jpg'
+2024-02-28 13:14:45.172 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/footer/4.jpg - - - 200 9987 image/jpeg 2.0592ms
+2024-02-28 13:14:45.172 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/footer/5.jpg - -
+2024-02-28 13:14:45.198 +06:00 [INF] Sending file. Request path: '/img/footer/5.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/footer/5.jpg'
+2024-02-28 13:14:45.199 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/footer/5.jpg - - - 200 8597 image/jpeg 26.4820ms
+2024-02-28 13:14:45.199 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/footer/6.jpg - -
+2024-02-28 13:14:45.226 +06:00 [INF] Sending file. Request path: '/img/footer/6.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/footer/6.jpg'
+2024-02-28 13:14:45.226 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/footer/6.jpg - - - 200 9719 image/jpeg 26.7978ms
+2024-02-28 13:14:45.403 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/slider/2.jpg - -
+2024-02-28 13:14:45.403 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/slider/1.jpg - -
+2024-02-28 13:14:45.499 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/fonts/Material-Design-Iconic-Fontd1f1.woff2?v=2.2.0 - -
+2024-02-28 13:14:45.527 +06:00 [INF] Sending file. Request path: '/fonts/Material-Design-Iconic-Fontd1f1.woff2'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/fonts/Material-Design-Iconic-Fontd1f1.woff2'
+2024-02-28 13:14:45.577 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/fonts/Material-Design-Iconic-Fontd1f1.woff2?v=2.2.0 - - - 200 38384 font/woff2 75.9517ms
+2024-02-28 13:14:45.654 +06:00 [INF] Sending file. Request path: '/img/slider/2.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/slider/2.jpg'
+2024-02-28 13:14:45.655 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/slider/2.jpg - - - 200 1336260 image/jpeg 251.6617ms
+2024-02-28 13:14:45.656 +06:00 [INF] Sending file. Request path: '/img/slider/1.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/slider/1.jpg'
+2024-02-28 13:14:45.656 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/slider/1.jpg - - - 200 1720959 image/jpeg 252.9651ms
+2024-02-28 13:14:48.491 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0 - -
+2024-02-28 13:14:48.517 +06:00 [INF] Sending file. Request path: '/fonts/fontawesome-webfont3e6e.woff2'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/fonts/fontawesome-webfont3e6e.woff2'
+2024-02-28 13:14:48.518 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0 - - - 200 77160 font/woff2 26.8125ms
+2024-02-28 13:15:05.552 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room - -
+2024-02-28 13:15:05.560 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.RoomController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:15:05.575 +06:00 [INF] Route matched with {action = "Index", controller = "Room"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(Int32) on controller Hotel.ATR.FakePortal.Controllers.RoomController (Hotel.ATR.FakePortal).
+2024-02-28 13:15:05.591 +06:00 [INF] Logging LogInforamtion
+2024-02-28 13:15:05.591 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:15:05.591 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:15:05.617 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:15:05.641 +06:00 [INF] Executed ViewResult - view Index executed in 24.7246ms.
+2024-02-28 13:15:05.641 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.RoomController.Index (Hotel.ATR.FakePortal) in 66.1957ms
+2024-02-28 13:15:05.641 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.RoomController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:15:05.641 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room - - - 200 - text/html;+charset=utf-8 89.9883ms
+2024-02-28 13:15:05.672 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/room/5.jpg - -
+2024-02-28 13:15:05.672 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/room/6.jpg - -
+2024-02-28 13:15:05.721 +06:00 [INF] Sending file. Request path: '/img/room/5.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/5.jpg'
+2024-02-28 13:15:05.721 +06:00 [INF] Sending file. Request path: '/img/room/6.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/6.jpg'
+2024-02-28 13:15:05.722 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/room/6.jpg - - - 200 187035 image/jpeg 49.8396ms
+2024-02-28 13:15:05.722 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/room/7.jpg - -
+2024-02-28 13:15:05.722 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/room/5.jpg - - - 200 135770 image/jpeg 50.6023ms
+2024-02-28 13:15:05.722 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/client/1-hover.png - -
+2024-02-28 13:15:05.722 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/room/8.jpg - -
+2024-02-28 13:15:05.722 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/bg/3.jpg - -
+2024-02-28 13:15:05.723 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/room/9.jpg - -
+2024-02-28 13:15:05.723 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/client/1.png - -
+2024-02-28 13:15:05.746 +06:00 [INF] Sending file. Request path: '/img/client/1-hover.png'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/1-hover.png'
+2024-02-28 13:15:05.747 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/client/1-hover.png - - - 200 3898 image/png 24.5095ms
+2024-02-28 13:15:05.748 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/client/2.png - -
+2024-02-28 13:15:05.748 +06:00 [INF] Sending file. Request path: '/img/room/8.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/8.jpg'
+2024-02-28 13:15:05.748 +06:00 [INF] Sending file. Request path: '/img/client/1.png'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/1.png'
+2024-02-28 13:15:05.748 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/room/8.jpg - - - 200 162271 image/jpeg 25.7839ms
+2024-02-28 13:15:05.749 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/client/2-hover.png - -
+2024-02-28 13:15:05.749 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/client/1.png - - - 200 4016 image/png 24.7370ms
+2024-02-28 13:15:05.750 +06:00 [INF] Sending file. Request path: '/img/room/9.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/9.jpg'
+2024-02-28 13:15:05.750 +06:00 [INF] Sending file. Request path: '/img/room/7.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/7.jpg'
+2024-02-28 13:15:05.750 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/room/9.jpg - - - 200 130284 image/jpeg 27.0936ms
+2024-02-28 13:15:05.750 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/room/7.jpg - - - 200 117079 image/jpeg 28.8891ms
+2024-02-28 13:15:05.750 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/client/3.png - -
+2024-02-28 13:15:05.752 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/client/4.png - -
+2024-02-28 13:15:05.752 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/client/3-hover.png - -
+2024-02-28 13:15:05.775 +06:00 [INF] Sending file. Request path: '/img/client/2-hover.png'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/2-hover.png'
+2024-02-28 13:15:05.822 +06:00 [INF] Sending file. Request path: '/img/client/3.png'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/3.png'
+2024-02-28 13:15:05.822 +06:00 [INF] Sending file. Request path: '/img/client/2.png'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/2.png'
+2024-02-28 13:15:05.847 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/client/2-hover.png - - - 200 4319 image/png 72.4788ms
+2024-02-28 13:15:05.848 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/client/2.png - - - 200 4318 image/png 100.7052ms
+2024-02-28 13:15:05.848 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/client/4-hover.png - -
+2024-02-28 13:15:05.848 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/client/5.png - -
+2024-02-28 13:15:05.849 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/client/3.png - - - 200 7396 image/png 97.6415ms
+2024-02-28 13:15:05.851 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/client/5-hover.png - -
+2024-02-28 13:15:05.851 +06:00 [INF] Sending file. Request path: '/img/client/4.png'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/4.png'
+2024-02-28 13:15:05.851 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/client/4.png - - - 200 2817 image/png 98.8271ms
+2024-02-28 13:15:05.851 +06:00 [INF] Sending file. Request path: '/img/client/3-hover.png'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/3-hover.png'
+2024-02-28 13:15:05.901 +06:00 [INF] Sending file. Request path: '/img/client/4-hover.png'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/4-hover.png'
+2024-02-28 13:15:05.927 +06:00 [INF] Sending file. Request path: '/img/client/5.png'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/5.png'
+2024-02-28 13:15:05.927 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/client/3-hover.png - - - 200 3598 image/png 150.0345ms
+2024-02-28 13:15:05.927 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/client/4-hover.png - - - 200 2887 image/png 79.5874ms
+2024-02-28 13:15:05.928 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/client/5.png - - - 200 3436 image/png 79.7130ms
+2024-02-28 13:15:05.955 +06:00 [INF] Sending file. Request path: '/img/client/5-hover.png'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/client/5-hover.png'
+2024-02-28 13:15:05.960 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/client/5-hover.png - - - 200 3473 image/png 108.3957ms
+2024-02-28 13:15:05.987 +06:00 [INF] Sending file. Request path: '/img/bg/3.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/bg/3.jpg'
+2024-02-28 13:15:05.987 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/bg/3.jpg - - - 200 666937 image/jpeg 264.7988ms
+2024-02-28 13:15:07.036 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/RoomList - -
+2024-02-28 13:15:07.041 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.RoomController.RoomList (Hotel.ATR.FakePortal)'
+2024-02-28 13:15:07.044 +06:00 [INF] Route matched with {action = "RoomList", controller = "Room"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult RoomList() on controller Hotel.ATR.FakePortal.Controllers.RoomController (Hotel.ATR.FakePortal).
+2024-02-28 13:15:07.046 +06:00 [INF] Executing ViewResult, running view RoomList.
+2024-02-28 13:15:07.054 +06:00 [INF] Executed ViewResult - view RoomList executed in 9.6188ms.
+2024-02-28 13:15:07.055 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.RoomController.RoomList (Hotel.ATR.FakePortal) in 10.2951ms
+2024-02-28 13:15:07.055 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.RoomController.RoomList (Hotel.ATR.FakePortal)'
+2024-02-28 13:15:07.055 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/RoomList - - - 200 - text/html;+charset=utf-8 18.6959ms
+2024-02-28 13:15:07.074 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/logo/logo.png - -
+2024-02-28 13:15:07.077 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/logo/logo.png - - - 404 0 - 2.4580ms
+2024-02-28 13:15:07.078 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/10.jpg - -
+2024-02-28 13:15:07.079 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/10.jpg - - - 404 0 - 0.4396ms
+2024-02-28 13:15:07.085 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/11.jpg - -
+2024-02-28 13:15:07.085 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/13.jpg - -
+2024-02-28 13:15:07.085 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/14.jpg - -
+2024-02-28 13:15:07.085 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/12.jpg - -
+2024-02-28 13:15:07.086 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/11.jpg - - - 404 0 - 0.8948ms
+2024-02-28 13:15:07.086 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/13.jpg - - - 404 0 - 0.6569ms
+2024-02-28 13:15:07.086 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/14.jpg - - - 404 0 - 0.7664ms
+2024-02-28 13:15:07.086 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/12.jpg - - - 404 0 - 1.2255ms
+2024-02-28 13:15:07.086 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/1.png - -
+2024-02-28 13:15:07.086 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/15.jpg - -
+2024-02-28 13:15:07.087 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/15.jpg - - - 404 0 - 1.2884ms
+2024-02-28 13:15:07.087 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/2.png - -
+2024-02-28 13:15:07.087 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/2-hover.png - -
+2024-02-28 13:15:07.088 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/1-hover.png - -
+2024-02-28 13:15:07.088 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/2-hover.png - - - 404 0 - 0.3073ms
+2024-02-28 13:15:07.087 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/1.png - - - 404 0 - 0.5322ms
+2024-02-28 13:15:07.088 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/2.png - - - 404 0 - 0.5581ms
+2024-02-28 13:15:07.088 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/1-hover.png - - - 404 0 - 0.2890ms
+2024-02-28 13:15:07.088 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/3.png - -
+2024-02-28 13:15:07.090 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/3-hover.png - -
+2024-02-28 13:15:07.089 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/4-hover.png - -
+2024-02-28 13:15:07.090 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/4.png - -
+2024-02-28 13:15:07.090 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/5.png - -
+2024-02-28 13:15:07.090 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/5-hover.png - -
+2024-02-28 13:15:07.090 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/3-hover.png - - - 404 0 - 0.3044ms
+2024-02-28 13:15:07.090 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/4.png - - - 404 0 - 0.3160ms
+2024-02-28 13:15:07.090 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/5-hover.png - - - 404 0 - 0.3640ms
+2024-02-28 13:15:07.090 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/3.png - - - 404 0 - 1.7186ms
+2024-02-28 13:15:07.090 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/5.png - - - 404 0 - 0.1520ms
+2024-02-28 13:15:07.090 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/4-hover.png - - - 404 0 - 0.7282ms
+2024-02-28 13:15:07.092 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/logo/footer-logo.png - -
+2024-02-28 13:15:07.092 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/1.jpg - -
+2024-02-28 13:15:07.092 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/logo/footer-logo.png - - - 404 0 - 0.0983ms
+2024-02-28 13:15:07.092 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/2.jpg - -
+2024-02-28 13:15:07.092 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/4.jpg - -
+2024-02-28 13:15:07.092 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/3.jpg - -
+2024-02-28 13:15:07.092 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/1.jpg - - - 404 0 - 0.1225ms
+2024-02-28 13:15:07.092 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/4.jpg - - - 404 0 - 0.0703ms
+2024-02-28 13:15:07.092 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/3.jpg - - - 404 0 - 0.0651ms
+2024-02-28 13:15:07.093 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/5.jpg - -
+2024-02-28 13:15:07.093 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/2.jpg - - - 404 0 - 0.2658ms
+2024-02-28 13:15:07.093 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/5.jpg - - - 404 0 - 0.1491ms
+2024-02-28 13:15:07.094 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/6.jpg - -
+2024-02-28 13:15:07.094 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/6.jpg - - - 404 0 - 0.2089ms
+2024-02-28 13:15:08.187 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/RoomDetails - -
+2024-02-28 13:15:08.187 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.RoomController.RoomDetails (Hotel.ATR.FakePortal)'
+2024-02-28 13:15:08.189 +06:00 [INF] Route matched with {action = "RoomDetails", controller = "Room"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult RoomDetails() on controller Hotel.ATR.FakePortal.Controllers.RoomController (Hotel.ATR.FakePortal).
+2024-02-28 13:15:08.190 +06:00 [INF] Executing ViewResult, running view RoomDetails.
+2024-02-28 13:15:08.219 +06:00 [INF] Executed ViewResult - view RoomDetails executed in 29.457ms.
+2024-02-28 13:15:08.219 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.RoomController.RoomDetails (Hotel.ATR.FakePortal) in 29.8147ms
+2024-02-28 13:15:08.219 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.RoomController.RoomDetails (Hotel.ATR.FakePortal)'
+2024-02-28 13:15:08.219 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/RoomDetails - - - 200 - text/html;+charset=utf-8 32.0911ms
+2024-02-28 13:15:08.242 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/l-1.jpg - -
+2024-02-28 13:15:08.242 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/logo/logo.png - -
+2024-02-28 13:15:08.244 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/logo/logo.png - - - 404 0 - 1.4200ms
+2024-02-28 13:15:08.244 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/l-1.jpg - - - 404 0 - 1.4959ms
+2024-02-28 13:15:08.251 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/l-2.jpg - -
+2024-02-28 13:15:08.251 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/l-2.jpg - - - 404 0 - 0.7474ms
+2024-02-28 13:15:08.253 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/l-3.jpg - -
+2024-02-28 13:15:08.255 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/l-3.jpg - - - 404 0 - 1.3812ms
+2024-02-28 13:15:08.255 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/l-4.jpg - -
+2024-02-28 13:15:08.255 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/l-4.jpg - - - 404 0 - 0.5200ms
+2024-02-28 13:15:08.256 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/l-5.jpg - -
+2024-02-28 13:15:08.256 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/s-1.jpg - -
+2024-02-28 13:15:08.256 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/s-1.jpg - - - 404 0 - 0.0995ms
+2024-02-28 13:15:08.256 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/s-2.jpg - -
+2024-02-28 13:15:08.256 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/s-2.jpg - - - 404 0 - 0.0921ms
+2024-02-28 13:15:08.256 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/s-3.jpg - -
+2024-02-28 13:15:08.257 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/s-3.jpg - - - 404 0 - 0.1072ms
+2024-02-28 13:15:08.257 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/l-5.jpg - - - 404 0 - 1.0395ms
+2024-02-28 13:15:08.260 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/s-4.jpg - -
+2024-02-28 13:15:08.261 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/s-4.jpg - - - 404 0 - 1.1996ms
+2024-02-28 13:15:08.262 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/s-5.jpg - -
+2024-02-28 13:15:08.263 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/sidebar/1.jpg - -
+2024-02-28 13:15:08.263 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/sidebar/2.jpg - -
+2024-02-28 13:15:08.264 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/sidebar/2.jpg - - - 404 0 - 0.2088ms
+2024-02-28 13:15:08.264 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/sidebar/1.jpg - - - 404 0 - 1.1787ms
+2024-02-28 13:15:08.264 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/s-5.jpg - - - 404 0 - 1.9796ms
+2024-02-28 13:15:08.264 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/1.jpg - -
+2024-02-28 13:15:08.264 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/1.jpg - - - 404 0 - 0.1894ms
+2024-02-28 13:15:08.264 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/sidebar/3.jpg - -
+2024-02-28 13:15:08.264 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/sidebar/3.jpg - - - 404 0 - 0.2137ms
+2024-02-28 13:15:08.269 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/4.jpg - -
+2024-02-28 13:15:08.269 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/1.png - -
+2024-02-28 13:15:08.269 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/1-hover.png - -
+2024-02-28 13:15:08.269 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/2.png - -
+2024-02-28 13:15:08.269 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/1-hover.png - - - 404 0 - 0.1902ms
+2024-02-28 13:15:08.269 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/1.png - - - 404 0 - 0.2312ms
+2024-02-28 13:15:08.269 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/2.png - - - 404 0 - 0.1824ms
+2024-02-28 13:15:08.269 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/2.jpg - -
+2024-02-28 13:15:08.269 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/4.jpg - - - 404 0 - 0.2930ms
+2024-02-28 13:15:08.269 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/2.jpg - - - 404 0 - 0.1147ms
+2024-02-28 13:15:08.269 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/3.jpg - -
+2024-02-28 13:15:08.269 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/3.jpg - - - 404 0 - 0.6853ms
+2024-02-28 13:15:08.272 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/3.png - -
+2024-02-28 13:15:08.272 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/2-hover.png - -
+2024-02-28 13:15:08.272 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/4.png - -
+2024-02-28 13:15:08.272 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/5.png - -
+2024-02-28 13:15:08.272 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/2-hover.png - - - 404 0 - 0.3137ms
+2024-02-28 13:15:08.272 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/3-hover.png - -
+2024-02-28 13:15:08.272 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/4-hover.png - -
+2024-02-28 13:15:08.272 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/5.png - - - 404 0 - 0.3057ms
+2024-02-28 13:15:08.272 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/4-hover.png - - - 404 0 - 0.0590ms
+2024-02-28 13:15:08.272 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/3-hover.png - - - 404 0 - 0.5748ms
+2024-02-28 13:15:08.272 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/4.png - - - 404 0 - 0.3920ms
+2024-02-28 13:15:08.272 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/3.png - - - 404 0 - 0.3703ms
+2024-02-28 13:15:08.274 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/5-hover.png - -
+2024-02-28 13:15:08.274 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/logo/footer-logo.png - -
+2024-02-28 13:15:08.274 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/5-hover.png - - - 404 0 - 0.1300ms
+2024-02-28 13:15:08.274 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/1.jpg - -
+2024-02-28 13:15:08.274 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/3.jpg - -
+2024-02-28 13:15:08.274 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/4.jpg - -
+2024-02-28 13:15:08.274 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/logo/footer-logo.png - - - 404 0 - 0.3333ms
+2024-02-28 13:15:08.275 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/3.jpg - - - 404 0 - 0.0862ms
+2024-02-28 13:15:08.275 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/1.jpg - - - 404 0 - 0.1755ms
+2024-02-28 13:15:08.275 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/2.jpg - -
+2024-02-28 13:15:08.275 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/4.jpg - - - 404 0 - 0.1269ms
+2024-02-28 13:15:08.275 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/2.jpg - - - 404 0 - 0.4868ms
+2024-02-28 13:15:08.276 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/5.jpg - -
+2024-02-28 13:15:08.276 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/6.jpg - -
+2024-02-28 13:15:08.276 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/6.jpg - - - 404 0 - 0.1932ms
+2024-02-28 13:15:08.276 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/5.jpg - - - 404 0 - 0.4246ms
+2024-02-28 13:15:12.865 +06:00 [INF] Request starting HTTP/1.1 POST http://localhost:5203/room/RoomDetails application/x-www-form-urlencoded 70
+2024-02-28 13:15:12.865 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.RoomController.RoomDetails (Hotel.ATR.FakePortal)'
+2024-02-28 13:15:12.865 +06:00 [INF] Route matched with {action = "RoomDetails", controller = "Room"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult RoomDetails() on controller Hotel.ATR.FakePortal.Controllers.RoomController (Hotel.ATR.FakePortal).
+2024-02-28 13:15:12.866 +06:00 [INF] Executing ViewResult, running view RoomDetails.
+2024-02-28 13:15:12.869 +06:00 [INF] Executed ViewResult - view RoomDetails executed in 2.7521ms.
+2024-02-28 13:15:12.869 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.RoomController.RoomDetails (Hotel.ATR.FakePortal) in 3.2148ms
+2024-02-28 13:15:12.869 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.RoomController.RoomDetails (Hotel.ATR.FakePortal)'
+2024-02-28 13:15:12.869 +06:00 [INF] Request finished HTTP/1.1 POST http://localhost:5203/room/RoomDetails application/x-www-form-urlencoded 70 - 200 - text/html;+charset=utf-8 4.4330ms
+2024-02-28 13:15:12.893 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/logo/logo.png - -
+2024-02-28 13:15:12.916 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/l-1.jpg - -
+2024-02-28 13:15:12.917 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/l-1.jpg - - - 404 0 - 0.6427ms
+2024-02-28 13:15:12.917 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/logo/logo.png - - - 404 0 - 24.6632ms
+2024-02-28 13:15:12.918 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/l-3.jpg - -
+2024-02-28 13:15:12.918 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/l-4.jpg - -
+2024-02-28 13:15:12.919 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/l-3.jpg - - - 404 0 - 0.9199ms
+2024-02-28 13:15:12.919 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/l-4.jpg - - - 404 0 - 0.9649ms
+2024-02-28 13:15:12.919 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/l-5.jpg - -
+2024-02-28 13:15:12.925 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/s-3.jpg - -
+2024-02-28 13:15:12.918 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/l-2.jpg - -
+2024-02-28 13:15:12.927 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/l-2.jpg - - - 404 0 - 9.3698ms
+2024-02-28 13:15:12.921 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/s-2.jpg - -
+2024-02-28 13:15:12.928 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/s-2.jpg - - - 404 0 - 6.4115ms
+2024-02-28 13:15:12.927 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/s-3.jpg - - - 404 0 - 2.5400ms
+2024-02-28 13:15:12.929 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/l-5.jpg - - - 404 0 - 10.3990ms
+2024-02-28 13:15:12.932 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/s-4.jpg - -
+2024-02-28 13:15:12.932 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/s-1.jpg - -
+2024-02-28 13:15:12.932 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/s-1.jpg - - - 404 0 - 0.0844ms
+2024-02-28 13:15:12.932 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/s-5.jpg - -
+2024-02-28 13:15:12.932 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/s-4.jpg - - - 404 0 - 0.2668ms
+2024-02-28 13:15:12.932 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/s-5.jpg - - - 404 0 - 0.0445ms
+2024-02-28 13:15:12.932 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/sidebar/2.jpg - -
+2024-02-28 13:15:12.932 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/sidebar/1.jpg - -
+2024-02-28 13:15:12.932 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/sidebar/1.jpg - - - 404 0 - 0.1615ms
+2024-02-28 13:15:12.932 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/sidebar/3.jpg - -
+2024-02-28 13:15:12.932 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/sidebar/3.jpg - - - 404 0 - 0.0314ms
+2024-02-28 13:15:12.932 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/sidebar/2.jpg - - - 404 0 - 0.1044ms
+2024-02-28 13:15:12.934 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/1.jpg - -
+2024-02-28 13:15:12.934 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/3.jpg - -
+2024-02-28 13:15:12.934 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/2.jpg - -
+2024-02-28 13:15:12.934 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/1.jpg - - - 404 0 - 0.0918ms
+2024-02-28 13:15:12.934 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/2.jpg - - - 404 0 - 0.0675ms
+2024-02-28 13:15:12.934 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/3.jpg - - - 404 0 - 0.0403ms
+2024-02-28 13:15:12.934 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/room/4.jpg - -
+2024-02-28 13:15:12.934 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/room/4.jpg - - - 404 0 - 0.0386ms
+2024-02-28 13:15:12.934 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/1.png - -
+2024-02-28 13:15:12.934 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/1.png - - - 404 0 - 0.0566ms
+2024-02-28 13:15:12.936 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/1-hover.png - -
+2024-02-28 13:15:12.936 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/1-hover.png - - - 404 0 - 0.0571ms
+2024-02-28 13:15:12.936 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/2.png - -
+2024-02-28 13:15:12.937 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/2-hover.png - -
+2024-02-28 13:15:12.937 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/2.png - - - 404 0 - 1.3285ms
+2024-02-28 13:15:12.937 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/2-hover.png - - - 404 0 - 0.1301ms
+2024-02-28 13:15:12.937 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/3-hover.png - -
+2024-02-28 13:15:12.937 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/3.png - -
+2024-02-28 13:15:12.937 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/3.png - - - 404 0 - 0.1985ms
+2024-02-28 13:15:12.938 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/4-hover.png - -
+2024-02-28 13:15:12.939 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/4-hover.png - - - 404 0 - 0.1450ms
+2024-02-28 13:15:12.937 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/3-hover.png - - - 404 0 - 0.1048ms
+2024-02-28 13:15:12.940 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/5.png - -
+2024-02-28 13:15:12.940 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/5.png - - - 404 0 - 0.0777ms
+2024-02-28 13:15:12.940 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/5-hover.png - -
+2024-02-28 13:15:12.940 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/5-hover.png - - - 404 0 - 0.0507ms
+2024-02-28 13:15:12.937 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/client/4.png - -
+2024-02-28 13:15:12.940 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/logo/footer-logo.png - -
+2024-02-28 13:15:12.940 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/client/4.png - - - 404 0 - 2.4487ms
+2024-02-28 13:15:12.940 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/1.jpg - -
+2024-02-28 13:15:12.940 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/logo/footer-logo.png - - - 404 0 - 0.0719ms
+2024-02-28 13:15:12.940 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/2.jpg - -
+2024-02-28 13:15:12.940 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/2.jpg - - - 404 0 - 0.0290ms
+2024-02-28 13:15:12.940 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/1.jpg - - - 404 0 - 0.0618ms
+2024-02-28 13:15:12.942 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/4.jpg - -
+2024-02-28 13:15:12.942 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/3.jpg - -
+2024-02-28 13:15:12.942 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/4.jpg - - - 404 0 - 0.1453ms
+2024-02-28 13:15:12.942 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/3.jpg - - - 404 0 - 0.0473ms
+2024-02-28 13:15:12.942 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/6.jpg - -
+2024-02-28 13:15:12.942 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room/img/footer/5.jpg - -
+2024-02-28 13:15:12.942 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/6.jpg - - - 404 0 - 0.0250ms
+2024-02-28 13:15:12.942 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room/img/footer/5.jpg - - - 404 0 - 0.1268ms
+2024-02-28 13:15:25.353 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Location - -
+2024-02-28 13:15:25.354 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.LocationController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:15:25.358 +06:00 [INF] Route matched with {action = "Index", controller = "Location"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.LocationController (Hotel.ATR.FakePortal).
+2024-02-28 13:15:25.360 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:15:25.369 +06:00 [INF] Executed ViewResult - view Index executed in 9.9665ms.
+2024-02-28 13:15:25.369 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.LocationController.Index (Hotel.ATR.FakePortal) in 11.1484ms
+2024-02-28 13:15:25.369 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.LocationController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:15:25.369 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Location - - - 200 - text/html;+charset=utf-8 16.4069ms
+2024-02-28 13:15:25.394 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/location/1.jpg - -
+2024-02-28 13:15:25.426 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/location/2.jpg - -
+2024-02-28 13:15:25.475 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/location/3.jpg - -
+2024-02-28 13:15:25.526 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/location/4.jpg - -
+2024-02-28 13:15:25.526 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/location/5.jpg - -
+2024-02-28 13:15:25.579 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/location/6.jpg - -
+2024-02-28 13:15:25.579 +06:00 [INF] Sending file. Request path: '/img/location/3.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/location/3.jpg'
+2024-02-28 13:15:25.606 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/location/3.jpg - - - 200 125530 image/jpeg 131.0653ms
+2024-02-28 13:15:25.606 +06:00 [INF] Sending file. Request path: '/img/location/2.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/location/2.jpg'
+2024-02-28 13:15:25.607 +06:00 [INF] Sending file. Request path: '/img/location/1.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/location/1.jpg'
+2024-02-28 13:15:25.607 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/location/2.jpg - - - 200 132413 image/jpeg 181.3780ms
+2024-02-28 13:15:25.607 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/location/1.jpg - - - 200 157832 image/jpeg 212.9987ms
+2024-02-28 13:15:25.609 +06:00 [INF] Sending file. Request path: '/img/location/4.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/location/4.jpg'
+2024-02-28 13:15:25.633 +06:00 [INF] Sending file. Request path: '/img/location/5.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/location/5.jpg'
+2024-02-28 13:15:25.654 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/location/4.jpg - - - 200 136750 image/jpeg 107.3019ms
+2024-02-28 13:15:25.656 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/location/5.jpg - - - 200 107272 image/jpeg 128.4127ms
+2024-02-28 13:15:25.727 +06:00 [INF] Sending file. Request path: '/img/location/6.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/location/6.jpg'
+2024-02-28 13:15:25.728 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/location/6.jpg - - - 200 115436 image/jpeg 148.9153ms
+2024-02-28 13:15:31.311 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Location - -
+2024-02-28 13:15:31.312 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.LocationController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:15:31.312 +06:00 [INF] Route matched with {action = "Index", controller = "Location"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.LocationController (Hotel.ATR.FakePortal).
+2024-02-28 13:15:31.313 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:15:31.324 +06:00 [INF] Executed ViewResult - view Index executed in 10.9262ms.
+2024-02-28 13:15:31.324 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.LocationController.Index (Hotel.ATR.FakePortal) in 11.5199ms
+2024-02-28 13:15:31.324 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.LocationController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:15:31.324 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Location - - - 200 - text/html;+charset=utf-8 12.6737ms
+2024-02-28 13:15:41.209 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/ - -
+2024-02-28 13:15:41.210 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:15:41.210 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:15:41.211 +06:00 [ERR] У пользователя nurbolatzursinbek@gmail.com  врщникла ошибка Ошибка пользователя
+2024-02-28 13:15:41.211 +06:00 [INF] обращение к сервису
+2024-02-28 13:15:42.213 +06:00 [INF] Сервис отработан за 1001
+2024-02-28 13:15:42.213 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:15:42.214 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:15:42.215 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:15:42.219 +06:00 [INF] Executed ViewResult - view Index executed in 4.9772ms.
+2024-02-28 13:15:42.219 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal) in 1008.9274ms
+2024-02-28 13:15:42.219 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:15:42.220 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/ - - - 200 - text/html;+charset=utf-8 1010.9497ms
+2024-02-28 13:15:50.719 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/Contact - -
+2024-02-28 13:15:50.755 +06:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-02-28 13:15:50.761 +06:00 [INF] AuthenticationScheme: Cookies was challenged.
+2024-02-28 13:15:50.761 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/Contact - - - 302 0 - 43.1913ms
+2024-02-28 13:15:50.768 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/login?ReturnUrl=%2FHome%2FContact - -
+2024-02-28 13:15:50.769 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.login (Hotel.ATR.FakePortal)'
+2024-02-28 13:15:50.771 +06:00 [INF] Route matched with {action = "login", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult login() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:15:50.773 +06:00 [INF] Executing ViewResult, running view login.
+2024-02-28 13:15:50.776 +06:00 [INF] Executed ViewResult - view login executed in 4.5442ms.
+2024-02-28 13:15:50.776 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.login (Hotel.ATR.FakePortal) in 5.1112ms
+2024-02-28 13:15:50.776 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.login (Hotel.ATR.FakePortal)'
+2024-02-28 13:15:50.777 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/login?ReturnUrl=%2FHome%2FContact - - - 200 - text/html;+charset=utf-8 8.9908ms
+2024-02-28 13:15:50.798 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/img/logo/logo.png - -
+2024-02-28 13:15:50.798 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/img/logo/footer-logo.png - -
+2024-02-28 13:15:50.799 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/img/logo/logo.png - - - 404 0 - 0.8617ms
+2024-02-28 13:15:50.799 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/img/logo/footer-logo.png - - - 404 0 - 0.6734ms
+2024-02-28 13:15:50.821 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/img/footer/1.jpg - -
+2024-02-28 13:15:50.821 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/img/footer/3.jpg - -
+2024-02-28 13:15:50.821 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/img/footer/6.jpg - -
+2024-02-28 13:15:50.822 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/img/footer/3.jpg - - - 404 0 - 0.3687ms
+2024-02-28 13:15:50.822 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/img/footer/1.jpg - - - 404 0 - 0.8465ms
+2024-02-28 13:15:50.822 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/img/footer/6.jpg - - - 404 0 - 0.1776ms
+2024-02-28 13:15:50.845 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/img/footer/4.jpg - -
+2024-02-28 13:15:50.846 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/img/footer/4.jpg - - - 404 0 - 0.2887ms
+2024-02-28 13:15:50.847 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/img/footer/5.jpg - -
+2024-02-28 13:15:50.872 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/img/footer/5.jpg - - - 404 0 - 0.9400ms
+2024-02-28 13:15:50.873 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/img/footer/2.jpg - -
+2024-02-28 13:15:50.899 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/img/footer/2.jpg - - - 404 0 - 24.3859ms
+2024-02-28 13:15:59.431 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/room-grid.html - -
+2024-02-28 13:15:59.432 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/room-grid.html - - - 404 0 - 0.9812ms
+2024-02-28 13:16:01.350 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/ - -
+2024-02-28 13:16:01.351 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:16:01.352 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:16:01.352 +06:00 [ERR] У пользователя nurbolatzursinbek@gmail.com  врщникла ошибка Ошибка пользователя
+2024-02-28 13:16:01.353 +06:00 [INF] обращение к сервису
+2024-02-28 13:16:02.354 +06:00 [INF] Сервис отработан за 1001
+2024-02-28 13:16:02.412 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:16:02.414 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:16:02.415 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:16:02.419 +06:00 [INF] Executed ViewResult - view Index executed in 4.2102ms.
+2024-02-28 13:16:02.419 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal) in 1066.854ms
+2024-02-28 13:16:02.419 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:16:02.419 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/ - - - 200 - text/html;+charset=utf-8 1068.6650ms
+2024-02-28 13:16:12.661 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/ - -
+2024-02-28 13:16:12.663 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:16:12.663 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:16:12.664 +06:00 [ERR] У пользователя nurbolatzursinbek@gmail.com  врщникла ошибка Ошибка пользователя
+2024-02-28 13:16:12.664 +06:00 [INF] обращение к сервису
+2024-02-28 13:16:13.665 +06:00 [INF] Сервис отработан за 1000
+2024-02-28 13:16:13.665 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:16:13.665 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:16:13.666 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:16:13.667 +06:00 [INF] Executed ViewResult - view Index executed in 1.7873ms.
+2024-02-28 13:16:13.668 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal) in 1004.4677ms
+2024-02-28 13:16:13.668 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:16:13.668 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/ - - - 200 - text/html;+charset=utf-8 1007.0177ms
+2024-02-28 13:20:04.247 +06:00 [INF] User profile is available. Using '/Users/nurbolatzursinbek/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-02-28 13:20:04.300 +06:00 [INF] Now listening on: http://localhost:5203
+2024-02-28 13:20:04.301 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-28 13:20:04.301 +06:00 [INF] Hosting environment: Development
+2024-02-28 13:20:04.301 +06:00 [INF] Content root path: /Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal
+2024-02-28 13:20:05.530 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/ - -
+2024-02-28 13:20:05.552 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:20:05.570 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:20:05.572 +06:00 [ERR] У пользователя nurbolatzursinbek@gmail.com  врщникла ошибка Ошибка пользователя
+2024-02-28 13:20:05.573 +06:00 [INF] обращение к сервису
+2024-02-28 13:20:06.574 +06:00 [INF] Сервис отработан за 1000
+2024-02-28 13:20:06.576 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:20:06.577 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:20:06.583 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:20:06.642 +06:00 [INF] Executed ViewResult - view Index executed in 61.063ms.
+2024-02-28 13:20:06.643 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal) in 1072.5596ms
+2024-02-28 13:20:06.643 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:20:06.644 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/ - - - 200 - text/html;+charset=utf-8 1115.5047ms
+2024-02-28 13:20:10.360 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/css/bootstrap.min.css.map - -
+2024-02-28 13:20:10.369 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/css/bootstrap.min.css.map - - - 404 0 - 9.4225ms
+2024-02-28 13:21:55.985 +06:00 [INF] User profile is available. Using '/Users/nurbolatzursinbek/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-02-28 13:21:56.037 +06:00 [INF] Now listening on: http://localhost:5203
+2024-02-28 13:21:56.038 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-28 13:21:56.038 +06:00 [INF] Hosting environment: Development
+2024-02-28 13:21:56.038 +06:00 [INF] Content root path: /Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal
+2024-02-28 13:21:57.792 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/ - -
+2024-02-28 13:21:57.812 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:21:57.831 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:21:57.833 +06:00 [ERR] У пользователя nurbolatzursinbek@gmail.com  врщникла ошибка Ошибка пользователя
+2024-02-28 13:21:57.833 +06:00 [INF] обращение к сервису
+2024-02-28 13:21:58.835 +06:00 [INF] Сервис отработан за 1001
+2024-02-28 13:21:58.839 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:21:58.839 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:21:58.850 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:21:58.923 +06:00 [INF] Executed ViewResult - view Index executed in 79.3424ms.
+2024-02-28 13:21:58.924 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal) in 1092.3473ms
+2024-02-28 13:21:58.924 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:21:58.925 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/ - - - 200 - text/html;+charset=utf-8 1134.5022ms
+2024-02-28 13:22:03.396 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/ - -
+2024-02-28 13:22:03.400 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:03.401 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:22:03.401 +06:00 [ERR] У пользователя nurbolatzursinbek@gmail.com  врщникла ошибка Ошибка пользователя
+2024-02-28 13:22:03.401 +06:00 [INF] обращение к сервису
+2024-02-28 13:22:04.402 +06:00 [INF] Сервис отработан за 1000
+2024-02-28 13:22:04.403 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:22:04.403 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:22:04.404 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:22:04.413 +06:00 [INF] Executed ViewResult - view Index executed in 9.3445ms.
+2024-02-28 13:22:04.414 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal) in 1013.026ms
+2024-02-28 13:22:04.414 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:04.415 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/ - - - 200 - text/html;+charset=utf-8 1018.9710ms
+2024-02-28 13:22:06.017 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/ - -
+2024-02-28 13:22:06.019 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:06.019 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:22:06.020 +06:00 [ERR] У пользователя nurbolatzursinbek@gmail.com  врщникла ошибка Ошибка пользователя
+2024-02-28 13:22:06.020 +06:00 [INF] обращение к сервису
+2024-02-28 13:22:07.020 +06:00 [INF] Сервис отработан за 1000
+2024-02-28 13:22:07.020 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:22:07.021 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:22:07.021 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:22:07.022 +06:00 [INF] Executed ViewResult - view Index executed in 1.6746ms.
+2024-02-28 13:22:07.022 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal) in 1003.0578ms
+2024-02-28 13:22:07.023 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:07.023 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/ - - - 200 - text/html;+charset=utf-8 1006.0028ms
+2024-02-28 13:22:07.679 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room - -
+2024-02-28 13:22:07.683 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.RoomController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:07.698 +06:00 [INF] Route matched with {action = "Index", controller = "Room"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(Int32) on controller Hotel.ATR.FakePortal.Controllers.RoomController (Hotel.ATR.FakePortal).
+2024-02-28 13:22:07.721 +06:00 [INF] Logging LogInforamtion
+2024-02-28 13:22:07.721 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:22:07.721 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:22:07.750 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:22:07.773 +06:00 [INF] Executed ViewResult - view Index executed in 23.0047ms.
+2024-02-28 13:22:07.773 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.RoomController.Index (Hotel.ATR.FakePortal) in 74.1397ms
+2024-02-28 13:22:07.773 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.RoomController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:07.773 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room - - - 200 - text/html;+charset=utf-8 93.5129ms
+2024-02-28 13:22:08.883 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Location - -
+2024-02-28 13:22:08.884 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.LocationController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:08.885 +06:00 [INF] Route matched with {action = "Index", controller = "Location"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.LocationController (Hotel.ATR.FakePortal).
+2024-02-28 13:22:08.886 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:22:08.892 +06:00 [INF] Executed ViewResult - view Index executed in 6.6127ms.
+2024-02-28 13:22:08.892 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.LocationController.Index (Hotel.ATR.FakePortal) in 6.9841ms
+2024-02-28 13:22:08.893 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.LocationController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:08.893 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Location - - - 200 - text/html;+charset=utf-8 9.6758ms
+2024-02-28 13:22:25.504 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Event - -
+2024-02-28 13:22:25.505 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.EventController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:25.508 +06:00 [INF] Route matched with {action = "Index", controller = "Event"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.EventController (Hotel.ATR.FakePortal).
+2024-02-28 13:22:25.510 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:22:25.516 +06:00 [INF] Executed ViewResult - view Index executed in 6.6964ms.
+2024-02-28 13:22:25.516 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.EventController.Index (Hotel.ATR.FakePortal) in 7.5525ms
+2024-02-28 13:22:25.516 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.EventController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:25.516 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Event - - - 200 - text/html;+charset=utf-8 12.9797ms
+2024-02-28 13:22:25.570 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/event/1.jpg - -
+2024-02-28 13:22:25.570 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/event/2.jpg - -
+2024-02-28 13:22:25.596 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/event/3.jpg - -
+2024-02-28 13:22:25.622 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/event/4.jpg - -
+2024-02-28 13:22:25.622 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/event/5.jpg - -
+2024-02-28 13:22:25.628 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/event/6.jpg - -
+2024-02-28 13:22:25.723 +06:00 [INF] Sending file. Request path: '/img/event/2.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/event/2.jpg'
+2024-02-28 13:22:25.723 +06:00 [INF] Sending file. Request path: '/img/event/5.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/event/5.jpg'
+2024-02-28 13:22:25.723 +06:00 [INF] Sending file. Request path: '/img/event/1.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/event/1.jpg'
+2024-02-28 13:22:25.723 +06:00 [INF] Sending file. Request path: '/img/event/4.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/event/4.jpg'
+2024-02-28 13:22:25.723 +06:00 [INF] Sending file. Request path: '/img/event/3.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/event/3.jpg'
+2024-02-28 13:22:25.723 +06:00 [INF] Sending file. Request path: '/img/event/6.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/event/6.jpg'
+2024-02-28 13:22:25.723 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/event/5.jpg - - - 200 211342 image/jpeg 100.7280ms
+2024-02-28 13:22:25.723 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/event/3.jpg - - - 200 119572 image/jpeg 130.6655ms
+2024-02-28 13:22:25.723 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/event/1.jpg - - - 200 393358 image/jpeg 153.0690ms
+2024-02-28 13:22:25.723 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/event/4.jpg - - - 200 264715 image/jpeg 103.2935ms
+2024-02-28 13:22:25.723 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/event/6.jpg - - - 200 129063 image/jpeg 95.8420ms
+2024-02-28 13:22:25.723 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/event/2.jpg - - - 200 160318 image/jpeg 152.9557ms
+2024-02-28 13:22:26.190 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Team - -
+2024-02-28 13:22:26.191 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.TeamController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:26.193 +06:00 [INF] Route matched with {action = "Index", controller = "Team"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.TeamController (Hotel.ATR.FakePortal).
+2024-02-28 13:22:26.195 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:22:26.203 +06:00 [INF] Executed ViewResult - view Index executed in 9.3874ms.
+2024-02-28 13:22:26.203 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.TeamController.Index (Hotel.ATR.FakePortal) in 10.2499ms
+2024-02-28 13:22:26.203 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.TeamController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:26.203 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Team - - - 200 - text/html;+charset=utf-8 13.2434ms
+2024-02-28 13:22:26.225 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/team/1.jpg - -
+2024-02-28 13:22:26.248 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/team/4.jpg - -
+2024-02-28 13:22:26.248 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/team/2.jpg - -
+2024-02-28 13:22:26.248 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/team/5.jpg - -
+2024-02-28 13:22:26.248 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/img/team/3.jpg - -
+2024-02-28 13:22:26.252 +06:00 [INF] Sending file. Request path: '/img/team/1.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/team/1.jpg'
+2024-02-28 13:22:26.253 +06:00 [INF] Sending file. Request path: '/img/team/4.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/team/4.jpg'
+2024-02-28 13:22:26.253 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/team/1.jpg - - - 200 165520 image/jpeg 27.6332ms
+2024-02-28 13:22:26.253 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/team/4.jpg - - - 200 168431 image/jpeg 5.7379ms
+2024-02-28 13:22:26.254 +06:00 [INF] Sending file. Request path: '/img/team/5.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/team/5.jpg'
+2024-02-28 13:22:26.254 +06:00 [INF] Sending file. Request path: '/img/team/3.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/team/3.jpg'
+2024-02-28 13:22:26.254 +06:00 [INF] Sending file. Request path: '/img/team/2.jpg'. Physical path: '/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/team/2.jpg'
+2024-02-28 13:22:26.254 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/team/3.jpg - - - 200 175269 image/jpeg 6.8120ms
+2024-02-28 13:22:26.254 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/team/2.jpg - - - 200 156876 image/jpeg 6.7971ms
+2024-02-28 13:22:26.255 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/img/team/5.jpg - - - 200 173539 image/jpeg 6.5087ms
+2024-02-28 13:22:26.847 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/Contact - -
+2024-02-28 13:22:26.853 +06:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2024-02-28 13:22:26.859 +06:00 [INF] AuthenticationScheme: Cookies was challenged.
+2024-02-28 13:22:26.860 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/Contact - - - 302 0 - 12.8321ms
+2024-02-28 13:22:26.862 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/login?ReturnUrl=%2FHome%2FContact - -
+2024-02-28 13:22:26.864 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.login (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:26.865 +06:00 [INF] Route matched with {action = "login", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult login() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:22:26.866 +06:00 [INF] Executing ViewResult, running view login.
+2024-02-28 13:22:26.870 +06:00 [INF] Executed ViewResult - view login executed in 4.0759ms.
+2024-02-28 13:22:26.870 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.login (Hotel.ATR.FakePortal) in 4.455ms
+2024-02-28 13:22:26.870 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.login (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:26.870 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/login?ReturnUrl=%2FHome%2FContact - - - 200 - text/html;+charset=utf-8 7.6990ms
+2024-02-28 13:22:26.890 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/img/logo/footer-logo.png - -
+2024-02-28 13:22:26.890 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/img/logo/logo.png - -
+2024-02-28 13:22:26.891 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/img/logo/footer-logo.png - - - 404 0 - 1.3626ms
+2024-02-28 13:22:26.891 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/img/logo/logo.png - - - 404 0 - 1.3760ms
+2024-02-28 13:22:26.897 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/img/footer/2.jpg - -
+2024-02-28 13:22:26.897 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/img/footer/1.jpg - -
+2024-02-28 13:22:26.898 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/img/footer/2.jpg - - - 404 0 - 0.4304ms
+2024-02-28 13:22:26.898 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/img/footer/1.jpg - - - 404 0 - 0.4225ms
+2024-02-28 13:22:26.902 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/img/footer/3.jpg - -
+2024-02-28 13:22:26.902 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/img/footer/4.jpg - -
+2024-02-28 13:22:26.902 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/img/footer/5.jpg - -
+2024-02-28 13:22:26.902 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Home/img/footer/6.jpg - -
+2024-02-28 13:22:26.902 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/img/footer/4.jpg - - - 404 0 - 0.3877ms
+2024-02-28 13:22:26.902 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/img/footer/6.jpg - - - 404 0 - 0.2115ms
+2024-02-28 13:22:26.902 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/img/footer/3.jpg - - - 404 0 - 0.5689ms
+2024-02-28 13:22:26.902 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Home/img/footer/5.jpg - - - 404 0 - 0.3515ms
+2024-02-28 13:22:32.297 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/ - -
+2024-02-28 13:22:32.297 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:32.297 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:22:32.298 +06:00 [ERR] У пользователя nurbolatzursinbek@gmail.com  врщникла ошибка Ошибка пользователя
+2024-02-28 13:22:32.298 +06:00 [INF] обращение к сервису
+2024-02-28 13:22:33.033 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/ - -
+2024-02-28 13:22:33.034 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:33.034 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:22:33.035 +06:00 [ERR] У пользователя nurbolatzursinbek@gmail.com  врщникла ошибка Ошибка пользователя
+2024-02-28 13:22:33.035 +06:00 [INF] обращение к сервису
+2024-02-28 13:22:33.299 +06:00 [INF] Сервис отработан за 1001
+2024-02-28 13:22:33.300 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:22:33.300 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:22:33.300 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:22:33.303 +06:00 [INF] Executed ViewResult - view Index executed in 2.5311ms.
+2024-02-28 13:22:33.303 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal) in 1005.2585ms
+2024-02-28 13:22:33.303 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:33.303 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/ - - - 200 - text/html;+charset=utf-8 1006.4120ms
+2024-02-28 13:22:33.418 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/ - -
+2024-02-28 13:22:33.418 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:33.418 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:22:33.419 +06:00 [ERR] У пользователя nurbolatzursinbek@gmail.com  врщникла ошибка Ошибка пользователя
+2024-02-28 13:22:33.419 +06:00 [INF] обращение к сервису
+2024-02-28 13:22:34.036 +06:00 [INF] Сервис отработан за 1001
+2024-02-28 13:22:34.036 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:22:34.037 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:22:34.038 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:22:34.040 +06:00 [INF] Executed ViewResult - view Index executed in 2.8265ms.
+2024-02-28 13:22:34.040 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal) in 1005.4689ms
+2024-02-28 13:22:34.040 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:34.041 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/ - - - 200 - text/html;+charset=utf-8 1007.6040ms
+2024-02-28 13:22:34.420 +06:00 [INF] Сервис отработан за 1001
+2024-02-28 13:22:34.420 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:22:34.421 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:22:34.421 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:22:34.423 +06:00 [INF] Executed ViewResult - view Index executed in 2.0638ms.
+2024-02-28 13:22:34.423 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal) in 1004.5942ms
+2024-02-28 13:22:34.423 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:34.423 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/ - - - 200 - text/html;+charset=utf-8 1005.8609ms
+2024-02-28 13:22:36.069 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/ - -
+2024-02-28 13:22:36.069 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:36.069 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:22:36.070 +06:00 [ERR] У пользователя nurbolatzursinbek@gmail.com  врщникла ошибка Ошибка пользователя
+2024-02-28 13:22:36.070 +06:00 [INF] обращение к сервису
+2024-02-28 13:22:37.071 +06:00 [INF] Сервис отработан за 1001
+2024-02-28 13:22:37.071 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:22:37.072 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:22:37.072 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:22:37.073 +06:00 [INF] Executed ViewResult - view Index executed in 1.6058ms.
+2024-02-28 13:22:37.073 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal) in 1003.9373ms
+2024-02-28 13:22:37.074 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:22:37.074 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/ - - - 200 - text/html;+charset=utf-8 1004.9715ms
+2024-02-28 13:22:43.162 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/css/bootstrap.min.css.map - -
+2024-02-28 13:22:43.163 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/css/bootstrap.min.css.map - - - 404 0 - 1.5527ms
+2024-02-28 13:23:13.200 +06:00 [INF] User profile is available. Using '/Users/nurbolatzursinbek/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-02-28 13:23:13.279 +06:00 [INF] Now listening on: http://localhost:5203
+2024-02-28 13:23:13.280 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-28 13:23:13.280 +06:00 [INF] Hosting environment: Development
+2024-02-28 13:23:13.280 +06:00 [INF] Content root path: /Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal
+2024-02-28 13:23:14.521 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/ - -
+2024-02-28 13:23:14.546 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:23:14.568 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:23:14.571 +06:00 [ERR] У пользователя nurbolatzursinbek@gmail.com  врщникла ошибка Ошибка пользователя
+2024-02-28 13:23:14.571 +06:00 [INF] обращение к сервису
+2024-02-28 13:23:15.572 +06:00 [INF] Сервис отработан за 1001
+2024-02-28 13:23:15.577 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:23:15.577 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:23:15.599 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:23:15.666 +06:00 [INF] Executed ViewResult - view Index executed in 73.7582ms.
+2024-02-28 13:23:15.667 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal) in 1098.366ms
+2024-02-28 13:23:15.667 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:23:15.668 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/ - - - 200 - text/html;+charset=utf-8 1148.5388ms
+2024-02-28 13:23:19.909 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room - -
+2024-02-28 13:23:19.915 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.RoomController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:23:19.926 +06:00 [INF] Route matched with {action = "Index", controller = "Room"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(Int32) on controller Hotel.ATR.FakePortal.Controllers.RoomController (Hotel.ATR.FakePortal).
+2024-02-28 13:23:19.948 +06:00 [INF] Logging LogInforamtion
+2024-02-28 13:23:19.949 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:23:19.949 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:23:19.976 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:23:20.000 +06:00 [INF] Executed ViewResult - view Index executed in 23.8929ms.
+2024-02-28 13:23:20.000 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.RoomController.Index (Hotel.ATR.FakePortal) in 73.8907ms
+2024-02-28 13:23:20.000 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.RoomController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:23:20.000 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room - - - 200 - text/html;+charset=utf-8 91.4674ms
+2024-02-28 13:23:20.470 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Location - -
+2024-02-28 13:23:20.476 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.LocationController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:23:20.478 +06:00 [INF] Route matched with {action = "Index", controller = "Location"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.LocationController (Hotel.ATR.FakePortal).
+2024-02-28 13:23:20.480 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:23:20.487 +06:00 [INF] Executed ViewResult - view Index executed in 8.7814ms.
+2024-02-28 13:23:20.488 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.LocationController.Index (Hotel.ATR.FakePortal) in 9.85ms
+2024-02-28 13:23:20.488 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.LocationController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:23:20.488 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Location - - - 200 - text/html;+charset=utf-8 18.0336ms
+2024-02-28 13:24:29.288 +06:00 [INF] User profile is available. Using '/Users/nurbolatzursinbek/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-02-28 13:24:29.343 +06:00 [INF] Now listening on: http://localhost:5203
+2024-02-28 13:24:29.344 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-28 13:24:29.344 +06:00 [INF] Hosting environment: Development
+2024-02-28 13:24:29.344 +06:00 [INF] Content root path: /Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal
+2024-02-28 13:24:30.525 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/ - -
+2024-02-28 13:24:30.548 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:24:30.570 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:24:30.572 +06:00 [ERR] У пользователя nurbolatzursinbek@gmail.com  врщникла ошибка Ошибка пользователя
+2024-02-28 13:24:30.572 +06:00 [INF] обращение к сервису
+2024-02-28 13:24:31.574 +06:00 [INF] Сервис отработан за 1001
+2024-02-28 13:24:31.578 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:24:31.578 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:24:31.587 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:24:31.653 +06:00 [INF] Executed ViewResult - view Index executed in 70.4176ms.
+2024-02-28 13:24:31.654 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal) in 1083.3032ms
+2024-02-28 13:24:31.654 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:24:31.655 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/ - - - 200 - text/html;+charset=utf-8 1132.5810ms
+2024-02-28 13:24:32.928 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/ - -
+2024-02-28 13:24:32.931 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:24:32.932 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:24:32.932 +06:00 [ERR] У пользователя nurbolatzursinbek@gmail.com  врщникла ошибка Ошибка пользователя
+2024-02-28 13:24:32.933 +06:00 [INF] обращение к сервису
+2024-02-28 13:24:33.934 +06:00 [INF] Сервис отработан за 1001
+2024-02-28 13:24:33.934 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:24:33.934 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:24:33.935 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:24:33.943 +06:00 [INF] Executed ViewResult - view Index executed in 7.704ms.
+2024-02-28 13:24:33.943 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal) in 1011.0062ms
+2024-02-28 13:24:33.943 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:24:33.943 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/ - - - 200 - text/html;+charset=utf-8 1015.1382ms
+2024-02-28 13:24:36.581 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Location - -
+2024-02-28 13:24:36.585 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.LocationController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:24:36.586 +06:00 [INF] Route matched with {action = "Index", controller = "Location"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.LocationController (Hotel.ATR.FakePortal).
+2024-02-28 13:24:36.587 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:24:36.617 +06:00 [INF] Executed ViewResult - view Index executed in 30.1449ms.
+2024-02-28 13:24:36.617 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.LocationController.Index (Hotel.ATR.FakePortal) in 30.5319ms
+2024-02-28 13:24:36.617 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.LocationController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:24:36.617 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Location - - - 200 - text/html;+charset=utf-8 36.3467ms
+2024-02-28 13:24:37.000 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/room - -
+2024-02-28 13:24:37.002 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.RoomController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:24:37.016 +06:00 [INF] Route matched with {action = "Index", controller = "Room"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index(Int32) on controller Hotel.ATR.FakePortal.Controllers.RoomController (Hotel.ATR.FakePortal).
+2024-02-28 13:24:37.035 +06:00 [INF] Logging LogInforamtion
+2024-02-28 13:24:37.036 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:24:37.036 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:24:37.064 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:24:37.077 +06:00 [INF] Executed ViewResult - view Index executed in 13.5003ms.
+2024-02-28 13:24:37.077 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.RoomController.Index (Hotel.ATR.FakePortal) in 61.3228ms
+2024-02-28 13:24:37.077 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.RoomController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:24:37.077 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/room - - - 200 - text/html;+charset=utf-8 77.0395ms
+2024-02-28 13:24:37.890 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/Event - -
+2024-02-28 13:24:37.891 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.EventController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:24:37.893 +06:00 [INF] Route matched with {action = "Index", controller = "Event"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.EventController (Hotel.ATR.FakePortal).
+2024-02-28 13:24:37.895 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:24:37.902 +06:00 [INF] Executed ViewResult - view Index executed in 8.3429ms.
+2024-02-28 13:24:37.902 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.EventController.Index (Hotel.ATR.FakePortal) in 9.2839ms
+2024-02-28 13:24:37.902 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.EventController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:24:37.903 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/Event - - - 200 - text/html;+charset=utf-8 12.5190ms
+2024-02-28 13:25:13.195 +06:00 [INF] User profile is available. Using '/Users/nurbolatzursinbek/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-02-28 13:25:13.246 +06:00 [INF] Now listening on: http://localhost:5203
+2024-02-28 13:25:13.247 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-28 13:25:13.247 +06:00 [INF] Hosting environment: Development
+2024-02-28 13:25:13.247 +06:00 [INF] Content root path: /Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal
+2024-02-28 13:25:14.483 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/ - -
+2024-02-28 13:25:14.509 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:25:14.528 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:25:14.530 +06:00 [ERR] У пользователя nurbolatzursinbek@gmail.com  врщникла ошибка Ошибка пользователя
+2024-02-28 13:25:14.530 +06:00 [INF] обращение к сервису
+2024-02-28 13:25:15.532 +06:00 [INF] Сервис отработан за 1001
+2024-02-28 13:25:15.537 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:25:15.537 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:25:15.549 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:25:15.616 +06:00 [INF] Executed ViewResult - view Index executed in 72.9736ms.
+2024-02-28 13:25:15.616 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal) in 1088.2897ms
+2024-02-28 13:25:15.616 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:25:15.618 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/ - - - 200 - text/html;+charset=utf-8 1136.7820ms
+2024-02-28 13:25:23.520 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/css/bootstrap.min.css.map - -
+2024-02-28 13:25:23.527 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/css/bootstrap.min.css.map - - - 404 0 - 7.3396ms
+2024-02-28 13:25:47.567 +06:00 [INF] User profile is available. Using '/Users/nurbolatzursinbek/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2024-02-28 13:25:47.628 +06:00 [INF] Now listening on: http://localhost:5203
+2024-02-28 13:25:47.629 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-28 13:25:47.629 +06:00 [INF] Hosting environment: Development
+2024-02-28 13:25:47.629 +06:00 [INF] Content root path: /Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal
+2024-02-28 13:25:48.743 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:5203/ - -
+2024-02-28 13:25:48.772 +06:00 [INF] Executing endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:25:48.789 +06:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Hotel.ATR.FakePortal.Controllers.HomeController (Hotel.ATR.FakePortal).
+2024-02-28 13:25:48.791 +06:00 [ERR] У пользователя nurbolatzursinbek@gmail.com  врщникла ошибка Ошибка пользователя
+2024-02-28 13:25:48.791 +06:00 [INF] обращение к сервису
+2024-02-28 13:25:49.793 +06:00 [INF] Сервис отработан за 1001
+2024-02-28 13:25:49.799 +06:00 [ERR] Loggiong LogEror
+2024-02-28 13:25:49.800 +06:00 [WRN] Logging LogWarning
+2024-02-28 13:25:49.815 +06:00 [INF] Executing ViewResult, running view Index.
+2024-02-28 13:25:49.879 +06:00 [INF] Executed ViewResult - view Index executed in 71.5295ms.
+2024-02-28 13:25:49.879 +06:00 [INF] Executed action Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal) in 1090.1397ms
+2024-02-28 13:25:49.879 +06:00 [INF] Executed endpoint 'Hotel.ATR.FakePortal.Controllers.HomeController.Index (Hotel.ATR.FakePortal)'
+2024-02-28 13:25:49.881 +06:00 [INF] Request finished HTTP/1.1 GET http://localhost:5203/ - - - 200 - text/html;+charset=utf-8 1138.9382ms
