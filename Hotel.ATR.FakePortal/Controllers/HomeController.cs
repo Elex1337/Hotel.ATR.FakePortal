@@ -3,13 +3,17 @@ using Microsoft.AspNetCore.Mvc;
 using Hotel.ATR.FakePortal.Models;
 using Microsoft.AspNetCore.Authorization;
 using System.Security.Claims;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
+
 namespace Hotel.ATR.FakePortal.Controllers;
 
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
     //TODO
-    //private readonly IHttpContextAccessor HttpContext;
+    private IHttpContextAccessor _httpContext;
+
 
     public HomeController(ILogger<HomeController> logger)
      
@@ -52,30 +56,47 @@ public class HomeController : Controller
 
     [Authorize]
     public IActionResult Contact()
-    {
-
-        
-
+    { 
         return View();
     }
+    public IActionResult login(string ReturnUrl)
+        {
+            ViewBag.ReturnUrl = ReturnUrl;
+
+            return View();
+        }
     [HttpPost]
-    public IActionResult login(string login, string password)
+
+    public async Task<IActionResult> Login(string login, string password, string ReturnUrl)
     {
         if (login == "admin" && password == "admin")
         {
-            var claims = new List<Claim>
-            {
-                new Claim(ClaimTypes.Name, login)
-            };
-            var claimsIdentity = new ClaimsIdentity
-                (claims, "Login");
-            //TODO
-            //HttpContext.SignIn
-            //();
+            var claims = new List<Claim>()
+                {
+                    new Claim(ClaimTypes.Name, login)
+                };
 
+            var claimsIdentity = new ClaimsIdentity(claims, "login");
+
+            await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, new ClaimsPrincipal(claimsIdentity));
+
+            Task.Delay(100).Wait();
+            if (string.IsNullOrEmpty(ReturnUrl))
+            {
+                return RedirectToAction("Index", "Home");
+            }
+            else
+            {
+                return Redirect(ReturnUrl);
+            }
         }
         return View();
+    }
 
+    public IActionResult Logout()
+    {
+        HttpContext.SignOutAsync();
+        return RedirectToAction("Index");
     }
 
 

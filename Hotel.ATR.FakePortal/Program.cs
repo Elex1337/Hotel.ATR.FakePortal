@@ -24,20 +24,23 @@ using (var conn = new NpgsqlConnection(connString))
     }
 }
 
-builder.Host.UseSerilog((hostingContext, loggerConfiguration) =>
-{
-    loggerConfiguration
-        .MinimumLevel.Information()
-        .WriteTo.Console()
-        .WriteTo.File("log.txt", rollingInterval: RollingInterval.Day); 
-});
+
+
+
+
+//IHostBuilder hostBuilder = builder.Host.UseSerilog((hostingContext, loggerConfiguration) =>
+//{
+//    loggerConfiguration
+//        .MinimumLevel.Information()
+//        .WriteTo.Console()
+//        .WriteTo.File("log.txt", rollingInterval: RollingInterval.Day); 
+//});
 
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
     {
         options.LoginPath = "/Home/login";
     });
-
 //TODO
 //builder.Services.Configure<CookieBuilder>
 //    (options =>
@@ -81,6 +84,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
 app.UseAuthentication();
 
 app.MapControllerRoute(
