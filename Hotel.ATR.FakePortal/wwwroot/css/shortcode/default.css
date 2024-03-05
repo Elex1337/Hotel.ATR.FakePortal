@@ -117,8 +117,12 @@ label {
 .mark, mark {
     background: #4fc1f0 none repeat scroll 0 0;
     color: #ffffff;
-}	font-weight: 600;
-}
+    font-weight: 1200;
+}	
+
+
+
+
 .f-left {float: left}
 .f-right {float: right}
 p{
