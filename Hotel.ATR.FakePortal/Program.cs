@@ -4,6 +4,10 @@ using Npgsql;
 using NpgsqlTypes;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using System.Net;
+using Microsoft.Extensions.DependencyInjection;
+using System.Globalization;
+using Microsoft.AspNetCore.Localization;
+using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -41,6 +45,20 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
     {
         options.LoginPath = "/Home/login";
     });
+builder.Services.AddControllersWithViews();
+builder.Services.AddMvc().AddMvcLocalization(Microsoft.AspNetCore.Mvc.Razor.LanguageViewLocationExpanderFormat.Suffix);
+builder.Services.Configure<RequestLocalizationOptions>(
+    options =>
+    {
+        var cultures = new[] {
+            new CultureInfo("ru-Ru"),
+            new CultureInfo("kk-Kz"),
+            new CultureInfo("en-Us") };
+        options.DefaultRequestCulture = new RequestCulture(culture: "ru-Ru", uiCulture: "ru-Ru");
+        options.SupportedCultures = cultures;
+        options.SupportedUICultures = cultures;
+    });
+
 //TODO
 //builder.Services.Configure<CookieBuilder>
 //    (options =>
@@ -82,6 +100,12 @@ app.UseStaticFiles();
 //app.UseSession();
 
 app.UseRouting();
+
+var localOptions = app.Services.GetService<IOptions<RequestLocalizationOptions>>();
+
+app.UseRequestLocalization(localOptions.Value);
+
+
 
 app.UseAuthorization();
 

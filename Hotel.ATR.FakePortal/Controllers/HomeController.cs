@@ -12,7 +12,7 @@ public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
     //TODO
-    private IHttpContextAccessor _httpContext;
+    //private IHttpContextAccessor _httpContext;
 
 
     public HomeController(ILogger<HomeController> logger)
@@ -59,12 +59,12 @@ public class HomeController : Controller
     { 
         return View();
     }
-    public IActionResult login(string ReturnUrl)
-        {
-            ViewBag.ReturnUrl = ReturnUrl;
+    //public IActionResult Login(string ReturnUrl)
+    //    {
+    //        ViewBag.ReturnUrl = ReturnUrl;
 
-            return View();
-        }
+    //        return View();
+    //    }
     [HttpPost]
 
     public async Task<IActionResult> Login(string login, string password, string ReturnUrl)
