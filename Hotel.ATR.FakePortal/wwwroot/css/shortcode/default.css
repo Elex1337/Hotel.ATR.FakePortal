@@ -73,7 +73,7 @@ a:focus,
 }
 a:focus,
 a:hover {
-    color: #303030;
+    color: #fd0000;
     text-decoration: none;
 }
 a:active, a:hover {
@@ -145,7 +145,7 @@ ul{
     color: #606060;
 }
 .default-btn {
-    background: #b5876d none repeat scroll 0 0;
+    background: #ff5e00 none repeat scroll 0 0;
     color: #ffffff;
     font-family: "Raleway",sans-serif;
     font-size: 14px;
@@ -659,5 +659,5 @@ textarea:focus {
 .breadcrumb-bar .breadcrumb > li:first-child::after {right: -28px;}
 .breadcrumb-bar .breadcrumb > li + li:before {display: none;}
 .breadcrumb-bar a {color: #fff;}
-.breadcrumb-bar a:hover {color: #b5876d;}
+.breadcrumb-bar a:hover {color: #fa5c00;}
 .breadcrumb-bar li:first-child {margin-left: 0;}

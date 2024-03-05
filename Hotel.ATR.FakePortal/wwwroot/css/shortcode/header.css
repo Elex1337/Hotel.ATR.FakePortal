@@ -9,7 +9,7 @@ NOTE: This is Header style file. All Header related style included in this file.
 
 --------------------------------------*/
 .header-area:after {
-    background: #b5876d none repeat scroll 0 0;
+    background: #004cf1 none repeat scroll 0 0;
     content: "";
     height: 141px;
     left: -5%;
