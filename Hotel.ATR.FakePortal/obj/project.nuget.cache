@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jriMCmYUC0QSKKjVRkvaszSCtfrrHPlSgKpf8DkVVadY+ffyGoJutgGm4QStl6CiJLJmtlCaM37LoqH3uY0Few==",
+  "dgSpecHash": "EP1rshM8J90qOk1AqYAWv4NuEOrOiGoRSMVRH9Mq63ZArk8cs8ZMUKQvIPBozoNfjHRLB7uJ2+cnPVFCHCI3MQ==",
   "success": true,
   "projectFilePath": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal.csproj",
   "expectedPackageFiles": [
@@ -38,6 +38,7 @@
     "/Users/nurbolatzursinbek/.nuget/packages/microsoft.sqlserver.server/1.0.0/microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "/Users/nurbolatzursinbek/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "/Users/nurbolatzursinbek/.nuget/packages/npgsql/8.0.2/npgsql.8.0.2.nupkg.sha512",
+    "/Users/nurbolatzursinbek/.nuget/packages/resxmanager/1.7.0/resxmanager.1.7.0.nupkg.sha512",
     "/Users/nurbolatzursinbek/.nuget/packages/seq.extensions.logging/8.0.0/seq.extensions.logging.8.0.0.nupkg.sha512",
     "/Users/nurbolatzursinbek/.nuget/packages/serilog/3.1.1/serilog.3.1.1.nupkg.sha512",
     "/Users/nurbolatzursinbek/.nuget/packages/serilog.aspnetcore/8.0.1/serilog.aspnetcore.8.0.1.nupkg.sha512",
@@ -75,5 +76,16 @@
     "/Users/nurbolatzursinbek/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "/Users/nurbolatzursinbek/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"RESXManager 1.7.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net7.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "RESXManager",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

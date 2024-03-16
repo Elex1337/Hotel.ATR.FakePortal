@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "L3Y23r3MOCgzFGlyKR9jBJwfz4JNvQ5JNxtz7jULfaQ=",
+  "Hash": "/q+dKX296fOy/37ty44HC2b583cQ/tczKKDYRcULic4=",
   "Source": "Hotel.ATR.FakePortal",
   "BasePath": "_content/Hotel.ATR.FakePortal",
   "Mode": "Default",
@@ -1596,23 +1596,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/img/logo/footer-logo.png"
-    },
-    {
-      "Identity": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/logo/logo.png",
-      "SourceId": "Hotel.ATR.FakePortal",
-      "SourceType": "Discovered",
-      "ContentRoot": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/",
-      "BasePath": "_content/Hotel.ATR.FakePortal",
-      "RelativePath": "img/logo/logo.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/img/logo/logo.png"
     },
     {
       "Identity": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/1.jpg",

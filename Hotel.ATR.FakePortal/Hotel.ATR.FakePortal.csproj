@@ -17,12 +17,20 @@
     <None Remove="Views\Event\" />
     <None Remove="Views\Team\" />
     <None Remove="Views\Location\" />
+    <None Remove="Resources\" />
+    <None Remove="Resources\Controllers\" />
+    <None Remove="Resources\Views\" />
+    <None Remove="Resources\Views\Home\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\Room\" />
     <Folder Include="Views\Event\" />
     <Folder Include="Views\Team\" />
     <Folder Include="Views\Location\" />
+    <Folder Include="Resources\" />
+    <Folder Include="Resources\Controllers\" />
+    <Folder Include="Resources\Views\" />
+    <Folder Include="Resources\Views\Home\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Seq.Extensions.Logging" Version="8.0.0" />
@@ -33,5 +41,31 @@
     <PackageReference Include="Serilog.Extensions.Logging" Version="8.0.0" />
     <PackageReference Include="Serilog.Sinks.MSSqlServer" Version="6.5.2" />
     <PackageReference Include="Npgsql" Version="8.0.2" />
+    <PackageReference Include="RESXManager" Version="1.7.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Resources\Views\Home\Index.ru.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.ru.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Views\Home\Index.kk.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.kk.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Views\Home\Index.en.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.en.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Resources\Views\Home\Index.ru.Designer.cs">
+      <DependentUpon>Index.ru.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Resources\Views\Home\Index.kk.Designer.cs">
+      <DependentUpon>Index.kk.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Resources\Views\Home\Index.en.Designer.cs">
+      <DependentUpon>Index.en.resx</DependentUpon>
+    </Compile>
   </ItemGroup>
 </Project>

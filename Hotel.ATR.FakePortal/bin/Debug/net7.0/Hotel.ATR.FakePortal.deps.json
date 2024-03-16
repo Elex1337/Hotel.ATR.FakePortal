@@ -9,6 +9,7 @@
       "Hotel.ATR.FakePortal/1.0.0": {
         "dependencies": {
           "Npgsql": "8.0.2",
+          "RESXManager": "1.7.0",
           "Seq.Extensions.Logging": "8.0.0",
           "Serilog": "3.1.1",
           "Serilog.AspNetCore": "8.0.1",
@@ -19,6 +20,17 @@
         },
         "runtime": {
           "Hotel.ATR.FakePortal.dll": {}
+        },
+        "resources": {
+          "en/Hotel.ATR.FakePortal.resources.dll": {
+            "locale": "en"
+          },
+          "kk/Hotel.ATR.FakePortal.resources.dll": {
+            "locale": "kk"
+          },
+          "ru/Hotel.ATR.FakePortal.resources.dll": {
+            "locale": "ru"
+          }
         }
       },
       "Azure.Core/1.35.0": {
@@ -434,6 +446,30 @@
           "lib/net7.0/Npgsql.dll": {
             "assemblyVersion": "8.0.2.0",
             "fileVersion": "8.0.2.0"
+          }
+        }
+      },
+      "RESXManager/1.7.0": {
+        "runtime": {
+          "lib/ICSharpCode.SharpZipLib.dll": {
+            "assemblyVersion": "0.85.5.452",
+            "fileVersion": "0.0.0.0"
+          },
+          "lib/Microsoft.PowerShell.Commands.Utility.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "6.0.6000.16386"
+          },
+          "lib/RESXManager.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.2012.9.17"
+          },
+          "lib/RESXManager.Presentation.PureNet.dll": {
+            "assemblyVersion": "1.0.4643.33716",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/System.Management.Automation.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "6.0.6000.16386"
           }
         }
       },
@@ -1046,6 +1082,13 @@
       "sha512": "sha512-MuJzLoWCaQhQAR3oh66YR0Ir6mxuezncGX3f8wxvAc21g0+9HICktJQlqMoODhxztZKXE5k9GxRxqUAN+vPb4g==",
       "path": "npgsql/8.0.2",
       "hashPath": "npgsql.8.0.2.nupkg.sha512"
+    },
+    "RESXManager/1.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9zPZYnPHdnh0fE0rBaOOFJy1d5JJmAvRTaUh6egVt+7DFi5ULGEzB0hsjxz2AD/QzHMWLwnzw+CVrHA0UXp/Kw==",
+      "path": "resxmanager/1.7.0",
+      "hashPath": "resxmanager.1.7.0.nupkg.sha512"
     },
     "Seq.Extensions.Logging/8.0.0": {
       "type": "package",

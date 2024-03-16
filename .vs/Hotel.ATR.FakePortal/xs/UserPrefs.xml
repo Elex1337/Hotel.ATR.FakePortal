@@ -1,44 +1,52 @@
 ﻿<Properties StartupConfiguration="{622E6A77-996A-498F-B660-69BCF0042849}|http">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Hotel.ATR.FakePortal/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.Hotel.ATR.FakePortal PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hotel.ATR.FakePortal/wwwroot/style.css">
     <Files>
-      <File FileName="Hotel.ATR.FakePortal/Controllers/HomeController.cs" Line="56" Column="1" />
-      <File FileName="Hotel.ATR.FakePortal/Controllers/RoomController.cs" />
-      <File FileName="Hotel.ATR.FakePortal/Program.cs" Line="121" Column="1" />
-      <File FileName="Hotel.ATR.FakePortal/Controllers/LocationController.cs" />
-      <File FileName="Hotel.ATR.FakePortal/Models/User.cs" />
+      <File FileName="Hotel.ATR.FakePortal/Resources/Views/Home/Index.en.resx" />
+      <File FileName="Hotel.ATR.FakePortal/Views/Home/login.cshtml" />
+      <File FileName="Hotel.ATR.FakePortal/Resources/Views/Home/Index.en.Designer.cs" />
+      <File FileName="Hotel.ATR.FakePortal/Views/Home/Index.cshtml" />
+      <File FileName="Hotel.ATR.FakePortal/Resources/Views/Home/Index.ru.resx" />
       <File FileName="Hotel.ATR.FakePortal/Views/Home/Contact.cshtml" />
-      <File FileName="Hotel.ATR.FakePortal/Views/Home/Index.cshtml" Line="62" Column="18" />
-      <File FileName="Hotel.ATR.FakePortal/Views/Room/Index.cshtml" />
-      <File FileName="Hotel.ATR.FakePortal/Views/Shared/_HomeLayout.cshtml" />
-      <File FileName="Hotel.ATR.FakePortal/Views/Shared/_Layout.cshtml" Line="49" Column="32" />
+      <File FileName="Hotel.ATR.FakePortal/Hotel.ATR.FakePortal.csproj" />
+      <File FileName="Hotel.ATR.FakePortal/Resources/Views/Home/Index.kk.resx" />
       <File FileName="Hotel.ATR.FakePortal/Views/Shared/_MainMenu.cshtml" />
       <File FileName="Hotel.ATR.FakePortal/Views/Shared/_ValidationScriptsPartial.cshtml" />
-      <File FileName="Hotel.ATR.FakePortal/Views/Shared/_HomeLayout.cshtml.css" />
-      <File FileName="Hotel.ATR.FakePortal/Models/ErrorViewModel.cs" />
-      <File FileName="Hotel.ATR.FakePortal/Controllers/TeamController.cs" />
-      <File FileName="Hotel.ATR.FakePortal/wwwroot/js/ajax-mail.js" />
+      <File FileName="Hotel.ATR.FakePortal/Views/Shared/_Layout.cshtml" />
+      <File FileName="Hotel.ATR.FakePortal/Views/Shared/Error.cshtml" />
+      <File FileName="Hotel.ATR.FakePortal/Views/Home/Privacy.cshtml" />
+      <File FileName="Hotel.ATR.FakePortal/Properties/launchSettings.json" />
+      <File FileName="Hotel.ATR.FakePortal/Views/_ViewImports.cshtml" />
+      <File FileName="Hotel.ATR.FakePortal/Views/_ViewStart.cshtml" />
+      <File FileName="Hotel.ATR.FakePortal/wwwroot/style.css" Line="58" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Hotel.ATR.FakePortal">
-            <Node name="Hotel.ATR.FakePortal">
-              <Node name="Views">
+          <Node name="Hotel.ATR.FakePortal" expanded="True">
+            <Node name="Hotel.ATR.FakePortal" expanded="True">
+              <Node name="Dependencies" selected="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="Views" expanded="True">
+                  <Node name="Home" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
-              <Node name="appsettings.json" expanded="True" />
-              <Node name="Program.cs" selected="True" />
+              <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Hotel.ATR.FakePortal PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
 </Properties>

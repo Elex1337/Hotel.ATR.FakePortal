@@ -58,6 +58,9 @@ builder.Services.Configure<RequestLocalizationOptions>(
         options.SupportedCultures = cultures;
         options.SupportedUICultures = cultures;
     });
+builder.Services.AddLocalization(option =>
+option.ResourcesPath = "Resources");
+
 
 //TODO
 //builder.Services.Configure<CookieBuilder>

@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Authorization;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using System.Globalization;
 
 namespace Hotel.ATR.FakePortal.Controllers;
 
@@ -22,13 +23,18 @@ public class HomeController : Controller
     }
 
 
-    public IActionResult Index()
+    public IActionResult Index(string culture)
     {
+        if (!string.IsNullOrWhiteSpace(culture))
+        {
+            CultureInfo.CurrentCulture = new CultureInfo(culture);
+            CultureInfo.CurrentUICulture = new CultureInfo(culture);
+        }
         //TODO
         //HttpContext.Session.SetString("iin", "03131313131");
         //var sessionData = HttpContext.Session.GetString("iin");
-
-        CookieOptions options = new CookieOptions();
+      
+            CookieOptions options = new CookieOptions();
         options.Expires = DateTime.Now.AddSeconds(100);
         Response.Cookies.Append("iin", "03131313131",options);
 
@@ -92,6 +98,7 @@ public class HomeController : Controller
         }
         return View();
     }
+
 
     public IActionResult Logout()
     {

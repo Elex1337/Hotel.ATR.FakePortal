@@ -369,10 +369,6 @@
       "PackagePath": "staticwebassets/img/logo/footer-logo.png"
     },
     {
-      "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/logo/logo.png",
-      "PackagePath": "staticwebassets/img/logo/logo.png"
-    },
-    {
       "Id": "/Users/nurbolatzursinbek/Projects/Hotel.ATR.FakePortal/Hotel.ATR.FakePortal/wwwroot/img/room/1.jpg",
       "PackagePath": "staticwebassets/img/room/1.jpg"
     },
